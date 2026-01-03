@@ -1,0 +1,16 @@
+# Python
+backend/venv/
+backend/__pycache__/
+backend/*.db
+backend/instance/
+backend/flask_session/
+
+# Node
+kid-aid-bot/node_modules/
+kid-aid-bot/dist/
+
+# Env
+.env
+
+# OS
+.DS_Store

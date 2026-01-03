@@ -1,0 +1,1257 @@
+{"prompt": "Symptom: Hi", "completion": "First Aid: Hello! \ud83d\udc4b How can I help you with first aid today?"}
+{"prompt": "Symptom: Hello", "completion": "First Aid: Hi there! Please tell me your symptoms so I can assist you."}
+{"prompt": "Symptom: Hey", "completion": "First Aid: Hello! How can I help with first aid guidance today?"}
+{"prompt": "Symptom: Bye", "completion": "First Aid: Goodbye! Stay safe and take care."}
+{"prompt": "Symptom: Thank you", "completion": "First Aid: You're welcome! \ud83d\ude0a Always here to help."}
+{"prompt": "Symptom: I have a fever", "completion": "First Aid: Rest, drink plenty of fluids, and take paracetamol if needed. Monitor your temperature and see a doctor if it persists."}
+{"prompt": "Symptom: I am feeling dizzy", "completion": "First Aid: Sit or lie down immediately, drink water, and avoid sudden movements. Seek medical attention if dizziness continues."}
+{"prompt": "Symptom: I have a headache", "completion": "First Aid: Rest in a quiet room, hydrate well, and take pain relievers if necessary. See a doctor if it worsens."}
+{"prompt": "Symptom: I have a cold", "completion": "First Aid: Rest, drink warm fluids, use saline nose drops, and keep warm. Consult a doctor if symptoms persist."}
+{"prompt": "Symptom: I am coughing", "completion": "First Aid: Drink warm fluids, use honey or cough syrup if appropriate, and rest. Seek medical attention if severe."}
+{"prompt": "Symptom: I feel nauseous", "completion": "First Aid: Rest, sip water slowly, avoid heavy meals, and eat light foods. Consult a doctor if vomiting persists."}
+{"prompt": "Symptom: My finger is cut", "completion": "First Aid: Clean the wound with water, apply antiseptic, and cover with a bandage."}
+{"prompt": "Symptom: I burnt my hand", "completion": "First Aid: Place the burn under cool running water for several minutes, cover with a clean cloth, and seek medical help."}
+{"prompt": "Symptom: Nosebleed", "completion": "First Aid: Sit upright, lean forward, and pinch the nose for 10 minutes. Do not tilt your head back."}
+{"prompt": "Symptom: Joint pain", "completion": "First Aid: Rest the joint, apply ice if swollen, and take pain relief if needed. See a doctor if pain persists."}
+{"prompt": "Symptom: Asthma attack", "completion": "First Aid: Use your inhaler immediately, stay calm, and seek urgent medical attention if symptoms do not improve."}
+{"prompt": "Symptom: Blister forming", "completion": "First Aid: Clean gently, cover with a sterile bandage, and avoid popping it."}
+{"prompt": "Symptom: Insect bite", "completion": "First Aid: Wash the area with soap and water, apply antiseptic cream, and use ice to reduce swelling."}
+{"prompt": "Symptom: Hair loss", "completion": "First Aid: Consult a doctor or dermatologist for advice on treatment."}
+{"prompt": "Symptom: Feeling cold", "completion": "First Aid: Keep warm with blankets and warm drinks. Avoid exposure to cold environments."}
+{"prompt": "Symptom: Feeling weak", "completion": "First Aid: Rest, drink fluids, eat light meals, and consult a doctor if weakness persists."}
+{"prompt": "Symptom: Shortness of breath", "completion": "First Aid: Sit upright, stay calm, use prescribed inhalers, and seek urgent medical help if it worsens."}
+{"prompt": "Symptom: Stomach ache", "completion": "First Aid: Rest, drink water, avoid solid foods temporarily, and consult a doctor if pain persists or is severe."}
+{"prompt": "Symptom: Diarrhea", "completion": "First Aid: Drink plenty of fluids to stay hydrated, eat light foods, and seek medical help if severe or persistent."}
+{"prompt": "Symptom: Vomiting", "completion": "First Aid: Sip clear fluids slowly, rest, and consult a doctor if vomiting continues."}
+{"prompt": "Symptom: Sprained ankle", "completion": "First Aid: Rest, apply ice, compress with an elastic bandage, and elevate the ankle. Seek medical advice if severe."}
+{"prompt": "Symptom: Chest pain", "completion": "First Aid: Seek urgent medical help immediately."}
+{"prompt": "Symptom: Burn on face", "completion": "First Aid: Cool the burn with running water, cover gently, and get medical attention immediately."}
+{"prompt": "Symptom: Cut on arm", "completion": "First Aid: Clean with water, apply antiseptic, and bandage the cut. Seek medical help if bleeding is heavy."}
+{"prompt": "Symptom: Eye irritation", "completion": "First Aid: Rinse the eye with clean water, avoid rubbing, and consult a doctor if irritation continues."}
+{"prompt": "Symptom: Allergic reaction", "completion": "First Aid: Use antihistamines if mild, and seek urgent medical attention if severe or swelling occurs."}
+{"prompt": "Symptom: Choking", "completion": "First Aid: Perform Heimlich maneuver if trained, or call emergency services immediately."}
+{"prompt": "Symptom: Swollen leg", "completion": "First Aid: Elevate the leg, apply cold compress, rest, and see a doctor if swelling persists."}
+{"prompt": "Symptom: Fever with rash", "completion": "First Aid: Monitor temperature, stay hydrated, and seek medical advice immediately."}
+{"prompt": "Symptom: Ear pain", "completion": "First Aid: Apply warm compress, rest, and consult a doctor if pain persists or is severe."}
+{"prompt": "Symptom: Toothache", "completion": "First Aid: Rinse mouth, take pain relief if needed, and see a dentist promptly."}
+{"prompt": "Symptom: Sore throat", "completion": "First Aid: Gargle with warm salt water, stay hydrated, and rest your voice. Consult a doctor if severe."}
+{"prompt": "Symptom: Swelling of lips", "completion": "First Aid: Apply cool compress, avoid allergens, and seek medical help if swelling worsens."}
+{"prompt": "Symptom: Feeling tired", "completion": "First Aid: Rest adequately, hydrate, and eat balanced meals. Consult a doctor if fatigue continues."}
+{"prompt": "Symptom: Muscle cramps", "completion": "First Aid: Stretch gently, massage the area, hydrate, and apply warmth. Seek medical help if severe."}
+{"prompt": "Symptom: Heat stroke", "completion": "First Aid: Move to a cool place, hydrate, apply cool compresses, and seek urgent medical attention."}
+{"prompt": "Symptom: Cold sore", "completion": "First Aid: Keep the area clean, avoid touching, and use antiviral cream if prescribed."}
+{"prompt": "Symptom: Poisoning", "completion": "First Aid: Do not induce vomiting unless instructed, call emergency services immediately."}
+{"prompt": "Symptom: Fainting", "completion": "First Aid: Lay the person down, elevate legs, ensure fresh air, and seek medical attention."}
+{"prompt": "Symptom: Sprain", "completion": "First Aid: Rest, ice, compress, and elevate the affected area. Seek doctor if severe."}
+{"prompt": "Symptom: Broken bone", "completion": "First Aid: Immobilize the area, avoid moving, and seek urgent medical attention."}
+{"prompt": "Symptom: Seizure", "completion": "First Aid: Keep person safe, do not restrain, and call emergency services immediately."}
+{"prompt": "Symptom: Nosebleed from child", "completion": "First Aid: Sit the child upright, pinch nose for 10 minutes, and consult doctor if it persists."}
+{"prompt": "Symptom: Dizziness after standing", "completion": "First Aid: Sit or lie down immediately, hydrate, and rest. Seek medical advice if frequent."}
+{"prompt": "Symptom: Stomach upset", "completion": "First Aid: Drink water, avoid heavy foods, and rest. Consult a doctor if it continues."}
+{"prompt": "Symptom: Sunburn", "completion": "First Aid: Cool the skin with water, apply aloe vera, and avoid sun exposure until healed."}
+{"prompt": "Symptom: Minor burn on hand", "completion": "First Aid: Run under cool water, apply clean dressing, and avoid breaking skin blisters."}
+{"prompt": "Symptom: Splinter in finger", "completion": "First Aid: Wash hands, remove splinter with clean tweezers, and disinfect the area."}
+{"prompt": "Symptom: Mild allergic rash", "completion": "First Aid: Wash area, apply mild hydrocortisone cream, and avoid allergen exposure."}
+{"prompt": "Symptom: Minor cut on leg", "completion": "First Aid: Clean with water, apply antiseptic, and cover with bandage."}
+{"prompt": "Symptom: Insect sting", "completion": "First Aid: Wash area, apply ice to reduce swelling, and monitor for severe reaction."}
+{"prompt": "Symptom: Splashed chemical in eye", "completion": "First Aid: Rinse eye with plenty of clean water, seek urgent medical care immediately."}
+{"prompt": "Symptom: Chapped lips", "completion": "First Aid: Apply lip balm, stay hydrated, and avoid licking lips."}
+{"prompt": "Symptom: Dry skin", "completion": "First Aid: Apply moisturizer, avoid hot showers, and hydrate well."}
+{"prompt": "Symptom: Sneezing", "completion": "First Aid: Cover mouth/nose, rest, and consult doctor if persistent or severe."}
+{"prompt": "Symptom: Sore muscles after exercise", "completion": "First Aid: Rest, gentle stretching, apply warm compress, and hydrate."}
+{"prompt": "Symptom: Feeling anxious", "completion": "First Aid: Sit calmly, breathe slowly, and rest. Consult a doctor if anxiety is severe or persistent."}
+{"prompt": "Symptom: Fever", "completion": "First Aid: Rest, stay hydrated, and take paracetamol if the temperature is high. See a doctor if it persists more than 3 days."}
+{"prompt": "Symptom: Cold", "completion": "First Aid: Drink warm fluids, rest, and inhale steam to relieve congestion. Avoid cold drinks."}
+{"prompt": "Symptom: Headache", "completion": "First Aid: Rest in a quiet, dark room and drink water. Take mild pain reliever if required."}
+{"prompt": "Symptom: Dizziness", "completion": "First Aid: Sit or lie down immediately, avoid sudden movements, and drink water or fruit juice."}
+{"prompt": "Symptom: Asthma", "completion": "First Aid: Sit upright, use inhaler if prescribed, and stay calm. Seek medical help if breathing does not improve."}
+{"prompt": "Symptom: Joint pain", "completion": "First Aid: Rest the affected area, apply warm compress, and take anti-inflammatory medication if required."}
+{"prompt": "Symptom: Small cut", "completion": "First Aid: Clean the wound with water, apply antiseptic, and cover with a sterile bandage."}
+{"prompt": "Symptom: Burn", "completion": "First Aid: Cool the affected area with running water for at least 10 minutes. Do not apply ice or toothpaste."}
+{"prompt": "Symptom: Nosebleed", "completion": "First Aid: Sit upright, lean slightly forward, and pinch the soft part of the nose for 10 minutes."}
+{"prompt": "Symptom: Fracture", "completion": "First Aid: Immobilize the injured limb using a splint and seek immediate medical care."}
+{"prompt": "Symptom: Vomiting", "completion": "First Aid: Rest, drink small sips of water or ORS, and avoid solid foods until it stops."}
+{"prompt": "Symptom: Diarrhea", "completion": "First Aid: Drink plenty of fluids or ORS and avoid dairy or spicy food. Seek medical help if it continues for 2+ days."}
+{"prompt": "Symptom: Choking", "completion": "First Aid: Encourage the person to cough. If unable to breathe, perform the Heimlich maneuver and call emergency help."}
+{"prompt": "Symptom: Electric shock", "completion": "First Aid: Turn off the power source first. Do not touch the person directly. Call for emergency help immediately."}
+{"prompt": "Symptom: Snake bite", "completion": "First Aid: Keep the person still, immobilize the bitten area, and seek immediate medical help. Do not suck the wound."}
+{"prompt": "Symptom: Food poisoning", "completion": "First Aid: Drink fluids, rest, and avoid solid food. Seek doctor if vomiting or diarrhea persists."}
+{"prompt": "Symptom: Sunburn", "completion": "First Aid: Apply cool compress and aloe vera gel. Stay out of sunlight until healed."}
+{"prompt": "Symptom: Fainting", "completion": "First Aid: Lay the person flat, raise legs slightly, and loosen tight clothing."}
+{"prompt": "Symptom: Bleeding", "completion": "First Aid: Apply pressure with clean cloth, elevate the wound, and seek help if bleeding is severe."}
+{"prompt": "Symptom: Toothache", "completion": "First Aid: Rinse mouth with warm salt water and apply cold compress on cheek."}
+{"prompt": "Symptom: Eye irritation", "completion": "First Aid: Rinse eyes gently with clean water. Do not rub eyes."}
+{"prompt": "Symptom: Ear pain", "completion": "First Aid: Apply warm compress and avoid inserting anything in the ear. Consult doctor if it persists."}
+{"prompt": "Symptom: Sore throat", "completion": "First Aid: Gargle warm salt water, rest, and drink warm fluids."}
+{"prompt": "Symptom: Stomach ache", "completion": "First Aid: Rest, drink water, and avoid spicy or oily foods."}
+{"prompt": "Symptom: Cough", "completion": "First Aid: Drink warm water with honey and rest your throat. Avoid cold air exposure."}
+{"prompt": "Symptom: Anxiety", "completion": "First Aid: Take deep breaths, relax, and talk to someone you trust. Avoid caffeine."}
+{"prompt": "Symptom: Dehydration", "completion": "First Aid: Drink plenty of fluids or ORS. Rest in a cool, shaded place."}
+{"prompt": "Symptom: Back pain", "completion": "First Aid: Rest, stretch gently, and apply warm compress."}
+{"prompt": "Symptom: Child cut", "completion": "First Aid: Clean wound with water, apply antiseptic, and cover with clean bandage."}
+{"prompt": "Symptom: Child burn", "completion": "First Aid: Cool burn under running water, cover with clean cloth, and see doctor."}
+{"prompt": "Symptom: Sprain", "completion": "First Aid: Rest, Ice, Compress, Elevate (RICE method)."}
+{"prompt": "Symptom: Insect bite", "completion": "First Aid: Wash area with soap and water, apply cold pack, and avoid scratching."}
+{"prompt": "Symptom: Allergy", "completion": "First Aid: Take antihistamine if prescribed, and avoid allergens. Seek medical help if swelling or breathing difficulty occurs."}
+{"prompt": "Symptom: Chest pain", "completion": "First Aid: Sit down, stay calm, and seek emergency help immediately."}
+{"prompt": "Symptom: Shortness of breath", "completion": "First Aid: Sit upright, loosen clothing, and seek medical assistance immediately."}
+{"prompt": "Symptom: Ear blockage", "completion": "First Aid: Do not insert anything into the ear. Consult a doctor for removal."}
+{"prompt": "Symptom: Itching skin", "completion": "First Aid: Apply soothing lotion like calamine. Avoid scratching."}
+{"prompt": "Symptom: Stomach bloating", "completion": "First Aid: Avoid carbonated drinks and eat light meals. Rest and stay hydrated."}
+{"prompt": "Symptom: High blood pressure", "completion": "First Aid: Sit calmly, take deep breaths, and avoid stress. Seek doctor\u2019s advice."}
+{"prompt": "Symptom: Low blood pressure", "completion": "First Aid: Lie down with legs raised and drink fluids with salt or sugar."}
+{"prompt": "Symptom: Muscle cramps", "completion": "First Aid: Stretch the muscle gently and drink water or electrolyte solution."}
+{"prompt": "Symptom: Leg pain", "completion": "First Aid: Rest and elevate the leg. Apply ice pack if there\u2019s swelling."}
+{"prompt": "Symptom: Blisters", "completion": "First Aid: Do not pop blisters. Keep clean and cover lightly with sterile gauze."}
+{"prompt": "Symptom: Heartburn", "completion": "First Aid: Avoid spicy food, eat small meals, and drink water slowly."}
+{"prompt": "Symptom: Tooth bleeding", "completion": "First Aid: Apply pressure with clean cloth and avoid spitting."}
+{"prompt": "Symptom: Cracked lips", "completion": "First Aid: Apply lip balm and drink plenty of water."}
+{"prompt": "Symptom: Dry skin", "completion": "First Aid: Apply moisturizer regularly and avoid hot showers."}
+{"prompt": "Symptom: Hi", "completion": "First Aid: Hello! I'm your First Aid Assistant. How can I help you today?"}
+{"prompt": "Symptom: Hello", "completion": "First Aid: Hi there! Tell me your symptoms, and I\u2019ll guide you with first aid tips."}
+{"prompt": "Symptom: Hey", "completion": "First Aid: Hey! I\u2019m here to help you with any health or first aid concerns."}
+{"prompt": "Symptom: Bye", "completion": "First Aid: Goodbye! Take care and stay safe."}
+{"prompt": "Symptom: Thank you", "completion": "First Aid: You\u2019re welcome! Stay healthy and safe."}
+{"prompt": "Symptom: Feeling cold", "completion": "First Aid: Wear warm clothes, drink hot soup, and rest."}
+{"prompt": "Symptom: Weakness", "completion": "First Aid: Eat light, nutritious food, and drink fluids. Rest properly."}
+{"prompt": "Symptom: Panic attack", "completion": "First Aid: Breathe slowly, sit down, and focus on your breathing."}
+{"prompt": "Symptom: Nausea", "completion": "First Aid: Sit up straight, take deep breaths, and sip water slowly."}
+{"prompt": "Symptom: Ear infection", "completion": "First Aid: Apply warm compress, avoid getting ear wet, and consult doctor."}
+{"prompt": "Symptom: Foot swelling", "completion": "First Aid: Elevate your foot, apply cold compress, and rest."}
+{"prompt": "Symptom: Hand swelling", "completion": "First Aid: Rest your hand and apply cold compress."}
+{"prompt": "Symptom: Neck pain", "completion": "First Aid: Apply warm compress and stretch gently."}
+{"prompt": "Symptom: Shoulder pain", "completion": "First Aid: Rest, apply ice, and avoid lifting heavy objects."}
+{"prompt": "Symptom: Cramps", "completion": "First Aid: Stretch gently and drink plenty of water."}
+{"prompt": "Symptom: Throat pain", "completion": "First Aid: Gargle warm salt water and drink honey with warm water."}
+{"prompt": "Symptom: Tooth infection", "completion": "First Aid: Rinse with salt water and see a dentist soon."}
+{"prompt": "Symptom: Itchy throat", "completion": "First Aid: Drink warm fluids and avoid dust or smoke."}
+{"prompt": "Symptom: Tiredness", "completion": "First Aid: Get rest, eat healthy, and stay hydrated."}
+{"prompt": "Symptom: Cramp in leg", "completion": "First Aid: Stretch leg muscles and massage gently."}
+{"prompt": "Symptom: Ear ringing", "completion": "First Aid: Avoid loud noise and rest. See doctor if it persists."}
+{"prompt": "Symptom: Chest tightness", "completion": "First Aid: Sit upright, loosen clothing, and seek medical help."}
+{"prompt": "Symptom: Dry cough", "completion": "First Aid: Drink warm fluids and avoid dusty environments."}
+{"prompt": "Symptom: Blocked nose", "completion": "First Aid: Inhale steam and stay hydrated."}
+{"prompt": "Symptom: Sore muscles", "completion": "First Aid: Rest and apply warm compress to affected area."}
+{"prompt": "Symptom: Fever in child", "completion": "First Aid: Give child fluids, keep room cool, and consult pediatrician if fever is high."}
+{"prompt": "Symptom: Child vomited", "completion": "First Aid: Keep child hydrated and give ORS in small sips."}
+{"prompt": "Symptom: Baby cold", "completion": "First Aid: Keep baby warm, use saline drops, and consult pediatrician."}
+{"prompt": "Symptom: Child has cough", "completion": "First Aid: Give warm water or honey (if above 1 year). Avoid cold air."}
+{"prompt": "Symptom: Child got hurt", "completion": "First Aid: Clean the wound gently and apply antiseptic."}
+{"prompt": "Symptom: Severe headache", "completion": "First Aid: Rest, hydrate, and see a doctor if persistent."}
+{"prompt": "Symptom: Fatigue", "completion": "First Aid: Take rest and eat balanced meals rich in vitamins."}
+{"prompt": "Symptom: Numbness", "completion": "First Aid: Move affected area gently and consult doctor if continues."}
+{"prompt": "Symptom: Hand burn", "completion": "First Aid: Cool under running water, cover with clean cloth, and avoid breaking blisters."}
+{"prompt": "Symptom: Minor bleeding", "completion": "First Aid: Apply pressure with clean cloth for few minutes."}
+{"prompt": "Symptom: Finger cut", "completion": "First Aid: Clean with water, apply antiseptic, and cover."}
+{"prompt": "Symptom: Foot blister", "completion": "First Aid: Do not pop blister, keep area clean and dry."}
+{"prompt": "Symptom: Sneeze and cough", "completion": "First Aid: Wear mask, drink warm water, and rest."}
+{"prompt": "Symptom: Cold hands", "completion": "First Aid: Rub hands gently and keep them warm."}
+{"prompt": "Symptom: Sweating", "completion": "First Aid: Rest in cool area and drink water."}
+{"prompt": "Symptom: Hot skin", "completion": "First Aid: Move to cooler area and apply cold compress."}
+{"prompt": "Symptom: Weak pulse", "completion": "First Aid: Lay down and elevate legs. Seek immediate help."}
+{"prompt": "Symptom: Difficulty breathing", "completion": "First Aid: Sit upright and call for medical help immediately."}
+{"prompt": "Symptom: Fever with chills", "completion": "First Aid: Rest, keep yourself warm, and take paracetamol if needed."}
+{"prompt": "Symptom: Cold and sore throat", "completion": "First Aid: Drink warm water, rest, and gargle with salt water."}
+{"prompt": "Symptom: Hurt knee", "completion": "First Aid: Apply ice and rest your leg."}
+{"prompt": "Symptom: Chest discomfort", "completion": "First Aid: Stop any activity and call emergency if pain persists."}
+{"prompt": "Symptom: I have a fever", "completion": "First Aid: Rest, stay hydrated, and take paracetamol if the temperature is high. See a doctor if fever persists more than 3 days."}
+{"prompt": "Symptom: I caught a cold", "completion": "First Aid: Drink warm fluids, rest, and use steam inhalation. Avoid cold drinks."}
+{"prompt": "Symptom: I have a headache", "completion": "First Aid: Rest in a quiet, dark room and drink water. Take mild pain reliever if needed."}
+{"prompt": "Symptom: I feel dizzy", "completion": "First Aid: Sit or lie down immediately and drink water. Avoid sudden head movements."}
+{"prompt": "Symptom: I have asthma attack", "completion": "First Aid: Sit upright, use inhaler if prescribed, and stay calm. Seek medical help if breathing doesn't improve."}
+{"prompt": "Symptom: I have joint pain", "completion": "First Aid: Rest the affected area, apply warm compress, and take anti-inflammatory medicine if required."}
+{"prompt": "Symptom: I got a small cut", "completion": "First Aid: Clean the wound, apply antiseptic, and cover with a sterile bandage."}
+{"prompt": "Symptom: I burnt my hand", "completion": "First Aid: Cool the burn under running water for 10 minutes. Do not apply ice or toothpaste."}
+{"prompt": "Symptom: I have a nosebleed", "completion": "First Aid: Sit upright, lean forward slightly, and pinch your nose for 10 minutes."}
+{"prompt": "Symptom: I think my leg is fractured", "completion": "First Aid: Immobilize the limb, apply splint, and seek medical attention immediately."}
+{"prompt": "Symptom: I\u2019m vomiting a lot", "completion": "First Aid: Stay hydrated with clear fluids and rest. Avoid solid food until vomiting stops."}
+{"prompt": "Symptom: I have diarrhea", "completion": "First Aid: Drink ORS and avoid spicy food. See doctor if it continues more than 2 days."}
+{"prompt": "Symptom: Someone is choking", "completion": "First Aid: Encourage coughing. If person can\u2019t breathe, perform Heimlich maneuver and call emergency services."}
+{"prompt": "Symptom: Someone got an electric shock", "completion": "First Aid: Turn off power first. Don\u2019t touch person directly. Call emergency help."}
+{"prompt": "Symptom: Snake bite", "completion": "First Aid: Keep person calm and still. Immobilize bitten area and seek immediate medical help."}
+{"prompt": "Symptom: Food poisoning", "completion": "First Aid: Drink fluids, rest, and avoid solid food. Seek doctor if symptoms persist."}
+{"prompt": "Symptom: Sunburn", "completion": "First Aid: Apply cool compress and aloe vera gel. Stay out of sunlight."}
+{"prompt": "Symptom: Fainting", "completion": "First Aid: Lay person flat, raise legs, loosen clothing, and ensure airflow."}
+{"prompt": "Symptom: Bleeding wound", "completion": "First Aid: Apply pressure with clean cloth, elevate wound, and seek help if severe."}
+{"prompt": "Symptom: Toothache", "completion": "First Aid: Rinse mouth with warm salt water, apply cold compress on cheek."}
+{"prompt": "Symptom: Eye irritation", "completion": "First Aid: Rinse eye with clean water. Avoid rubbing. Seek doctor if pain persists."}
+{"prompt": "Symptom: Ear pain", "completion": "First Aid: Apply warm compress. Avoid inserting anything into ear."}
+{"prompt": "Symptom: Sore throat", "completion": "First Aid: Gargle with warm salt water, rest, and drink warm fluids."}
+{"prompt": "Symptom: Stomach ache", "completion": "First Aid: Rest, drink water, and avoid spicy or heavy food."}
+{"prompt": "Symptom: Persistent cough", "completion": "First Aid: Drink warm water with honey and rest. Avoid cold air."}
+{"prompt": "Symptom: Feeling anxious", "completion": "First Aid: Practice deep breathing, relax, and talk to someone if needed."}
+{"prompt": "Symptom: Dehydration", "completion": "First Aid: Drink plenty of fluids and ORS. Rest in a cool place."}
+{"prompt": "Symptom: Back pain", "completion": "First Aid: Rest, stretch gently, and apply warm compress."}
+{"prompt": "Symptom: My child cut their finger", "completion": "First Aid: Clean with water, apply antiseptic, and cover with a bandage."}
+{"prompt": "Symptom: My child burnt their hand", "completion": "First Aid: Cool under water, cover with clean cloth, seek doctor."}
+{"prompt": "Symptom: Sprain on ankle", "completion": "First Aid: Apply ice, wrap with bandage, elevate and rest."}
+{"prompt": "Symptom: Insect bite", "completion": "First Aid: Wash area, apply cold pack, avoid scratching."}
+{"prompt": "Symptom: Allergic reaction", "completion": "First Aid: Take antihistamine if prescribed and avoid allergens."}
+{"prompt": "Symptom: Feeling weak", "completion": "First Aid: Sit down, rest, and drink water or juice."}
+{"prompt": "Symptom: Chest pain", "completion": "First Aid: Sit upright, stay calm, avoid movement, and seek medical help immediately."}
+{"prompt": "Symptom: Shortness of breath", "completion": "First Aid: Sit upright, loosen tight clothes, and seek emergency help."}
+{"prompt": "Symptom: Seizure", "completion": "First Aid: Turn person on side, remove harmful objects, and don\u2019t put anything in mouth."}
+{"prompt": "Symptom: Diabetic low sugar", "completion": "First Aid: Give sweet drink or glucose immediately."}
+{"prompt": "Symptom: Burn from hot oil", "completion": "First Aid: Cool area with water, cover lightly, and seek doctor."}
+{"prompt": "Symptom: Dog bite", "completion": "First Aid: Wash with soap and water for 15 mins, apply antiseptic, see doctor for rabies shot."}
+{"prompt": "Symptom: Nose injury", "completion": "First Aid: Apply cold compress to reduce swelling. Avoid blowing nose."}
+{"prompt": "Symptom: Someone fell unconscious", "completion": "First Aid: Check breathing, loosen clothes, elevate legs, call emergency."}
+{"prompt": "Symptom: Someone is bleeding heavily", "completion": "First Aid: Apply firm pressure with clean cloth and call for help."}
+{"prompt": "Symptom: Someone fainted in sun", "completion": "First Aid: Move to shade, give water, and loosen clothes."}
+{"prompt": "Symptom: My hand got cut by glass", "completion": "First Aid: Clean wound carefully, remove debris, and bandage."}
+{"prompt": "Symptom: My leg got twisted", "completion": "First Aid: Rest, ice, compression, elevation (RICE method)."}
+{"prompt": "Symptom: Someone has chest heaviness", "completion": "First Aid: Make person rest, give aspirin if advised, call ambulance."}
+{"prompt": "Symptom: Minor burn", "completion": "First Aid: Cool area under running water for 10 minutes."}
+{"prompt": "Symptom: Eye got something inside", "completion": "First Aid: Rinse with clean water or saline, avoid rubbing eye."}
+{"prompt": "Symptom: Child vomiting", "completion": "First Aid: Keep child hydrated with ORS or water. Rest and avoid solid food."}
+{"prompt": "Symptom: Ear bleeding", "completion": "First Aid: Do not insert anything. Cover lightly and seek doctor immediately."}
+{"prompt": "Symptom: Nose blocked", "completion": "First Aid: Inhale steam and drink warm fluids."}
+{"prompt": "Symptom: Hi", "completion": "First Aid: Hello! I'm your First Aid Assistant. Tell me your symptom."}
+{"prompt": "Symptom: Hello", "completion": "First Aid: Hi there! How can I assist with your health concern?"}
+{"prompt": "Symptom: Hey", "completion": "First Aid: Hey! What happened? Describe your symptom."}
+{"prompt": "Symptom: Bye", "completion": "First Aid: Goodbye! Take care and stay safe."}
+{"prompt": "Symptom: Thank you", "completion": "First Aid: You're welcome! Stay healthy!"}
+{"prompt": "Symptom: Feeling sleepy all the time", "completion": "First Aid: Ensure enough rest, drink water, and check for fever or dehydration."}
+{"prompt": "Symptom: Muscle cramp", "completion": "First Aid: Stretch the muscle, massage gently, and drink water."}
+{"prompt": "Symptom: Dry cough", "completion": "First Aid: Drink warm water, honey, and rest your throat."}
+{"prompt": "Symptom: Severe stomach pain", "completion": "First Aid: Avoid food, rest, and seek doctor immediately."}
+{"prompt": "Symptom: Hand swelling", "completion": "First Aid: Apply cold compress and keep elevated."}
+{"prompt": "Symptom: Minor bleeding", "completion": "First Aid: Clean and apply pressure with a cloth."}
+{"prompt": "Symptom: Sore eyes", "completion": "First Aid: Wash gently with water and avoid touching."}
+{"prompt": "Symptom: Child fever", "completion": "First Aid: Keep hydrated, sponge with lukewarm water, and consult pediatrician."}
+{"prompt": "Symptom: Finger cut", "completion": "First Aid: Clean with antiseptic and cover with bandage."}
+{"prompt": "Symptom: Bruise", "completion": "First Aid: Apply ice pack and rest the area."}
+{"prompt": "Symptom: Child has diarrhea", "completion": "First Aid: Give ORS, avoid milk, and monitor hydration."}
+{"prompt": "Symptom: Weak pulse", "completion": "First Aid: Lay flat, elevate legs, and call emergency help."}
+{"prompt": "Symptom: Breathing difficulty", "completion": "First Aid: Sit upright, loosen clothes, and call ambulance."}
+{"prompt": "Symptom: Feeling nervous", "completion": "First Aid: Breathe slowly and try to relax."}
+{"prompt": "Symptom: Heat stroke", "completion": "First Aid: Move to a cool area, sponge with cool water, and sip fluids."}
+{"prompt": "Symptom: Child nosebleed", "completion": "First Aid: Pinch nose gently and tilt forward for 10 minutes."}
+{"prompt": "Symptom: Ear blocked", "completion": "First Aid: Yawn or swallow to open ear tubes. Don\u2019t insert anything."}
+{"prompt": "Symptom: Nail injury", "completion": "First Aid: Clean with water and cover lightly with gauze."}
+{"prompt": "Symptom: Cracked lips", "completion": "First Aid: Apply lip balm and drink more water."}
+{"prompt": "Symptom: Mouth ulcer", "completion": "First Aid: Rinse with salt water and avoid spicy foods."}
+{"prompt": "Symptom: Child headache", "completion": "First Aid: Ensure rest and hydration. Avoid screen time."}
+{"prompt": "Symptom: Fever with chills", "completion": "First Aid: Rest, fluids, and paracetamol. See doctor if persistent."}
+{"prompt": "Symptom: Shoulder pain", "completion": "First Aid: Rest, stretch gently, and apply warm compress."}
+{"prompt": "Symptom: Neck pain", "completion": "First Aid: Apply warm compress, gentle massage, and correct posture."}
+{"prompt": "Symptom: High temperature", "completion": "First Aid: Drink fluids, take medicine if advised, and rest."}
+{"prompt": "Symptom: Someone got cut badly", "completion": "First Aid: Apply pressure, elevate, and seek emergency care."}
+{"prompt": "Symptom: Someone burned face", "completion": "First Aid: Cool with water, cover loosely, and go to hospital."}
+{"prompt": "Symptom: Someone swallowed poison", "completion": "First Aid: Do not induce vomiting. Call poison control immediately."}
+{"prompt": "Symptom: Child fell from bed", "completion": "First Aid: Check for injury or unconsciousness. If normal, monitor closely."}
+{"prompt": "Symptom: Pain in ear after swimming", "completion": "First Aid: Tilt head to drain water and dry ear gently."}
+{"prompt": "Symptom: Child coughing at night", "completion": "First Aid: Give warm fluids and keep room humidified."}
+{"prompt": "Symptom: Hands shaking", "completion": "First Aid: Rest, hydrate, and eat something sweet if low sugar suspected."}
+{"prompt": "Symptom: Feeling cold and weak", "completion": "First Aid: Keep warm, rest, and drink fluids."}
+{"prompt": "Symptom: Blurred vision", "completion": "First Aid: Rest eyes and avoid strain. Seek medical attention if persists."}
+{"prompt": "Symptom: Child sneezing", "completion": "First Aid: Keep warm, give warm fluids, and avoid dust exposure."}
+{"prompt": "Symptom: Fever after vaccine", "completion": "First Aid: Give paracetamol as prescribed and keep hydrated."}
+{"prompt": "Symptom: Feeling tired", "completion": "First Aid: Rest, eat balanced food, and drink water."}
+{"prompt": "Symptom: Lightheaded", "completion": "First Aid: Sit or lie down immediately and hydrate."}
+{"prompt": "Symptom: Leg cramp", "completion": "First Aid: Stretch and massage gently, drink water."}
+{"prompt": "Symptom: Painful blister", "completion": "First Aid: Wash gently, cover loosely, don\u2019t pop blister."}
+{"prompt": "Symptom: Numbness in hand", "completion": "First Aid: Move fingers gently and rest hand. Seek doctor if persistent."}
+{"prompt": "Symptom: Child stomach pain", "completion": "First Aid: Let them rest, give warm water, and consult doctor if continues."}
+{"prompt": "Symptom: Feeling i cut my child\u2019s finger", "completion": "First Aid: Clean the wound with water, apply antiseptic, and cover with a bandage."}
+{"prompt": "Symptom: Having issues with i burnt my child\u2019s hand", "completion": "First Aid: Place the burn under cool water for several minutes, cover with a clean cloth, and get medical help."}
+{"prompt": "Symptom: My kid is facing i burnt my child\u2019s hand", "completion": "First Aid: Run cool water over the burn, do not apply ointments, and seek emergency help."}
+{"prompt": "Symptom: My child is experiencing my child\u2019s kid has a tummy child\u2019s ache", "completion": "First Aid: Encourage rest, give light meals, and plenty of fluids."}
+{"prompt": "Symptom: i can't breathe properly is bothering me", "completion": "First Aid: Sit upright, try to stay calm, and seek emergency medical help immediately."}
+{"prompt": "Symptom: Having issues with i burnt my child\u2019s hand", "completion": "First Aid: Cool the burn under running water, cover loosely with a clean cloth, and seek emergency medical help."}
+{"prompt": "Symptom: I suffer from my child\u2019s child has a nosebleed", "completion": "First Aid: Keep the child sitting upright, tilt head slightly forward, and pinch the nose."}
+{"prompt": "Symptom: My child has my child\u2019s kid has a tummy child\u2019s ache", "completion": "First Aid: Encourage rest, give light meals, and plenty of fluids."}
+{"prompt": "Symptom: My child is experiencing Lately I feel i can't breathe properly", "completion": "First Aid: Sit upright, try to stay calm, and seek emergency medical help immediately."}
+{"prompt": "Symptom: Feeling my kid has a tummy ache", "completion": "First Aid: Encourage rest, give light meals, and plenty of fluids."}
+{"prompt": "Symptom: Feeling my child\u2019s child is choking", "completion": "First Aid: If the child cannot breathe, perform the Heimlich maneuver and call emergency services."}
+{"prompt": "Symptom: Feeling my child is choking", "completion": "First Aid: Encourage coughing first; if unsuccessful, try abdominal thrusts and seek help."}
+{"prompt": "Symptom: Feeling my child\u2019s kid has a tummy child\u2019s ache", "completion": "First Aid: Encourage rest, give light meals, and plenty of fluids."}
+{"prompt": "Symptom: My child is experiencing my child\u2019s child has a nosebleed", "completion": "First Aid: Keep the child sitting upright, tilt head slightly forward, and pinch the nose."}
+{"prompt": "Symptom: My child is experiencing i have vomiting and stomach pain", "completion": "First Aid: Take rest, sip oral rehydration solution, and avoid oily food."}
+{"prompt": "Symptom: i cut my child\u2019s finger problem", "completion": "First Aid: Wash gently with water, put some antiseptic, and use a clean bandage."}
+{"prompt": "Symptom: Feeling my child is choking", "completion": "First Aid: If the child cannot breathe, perform the Heimlich maneuver and call emergency services."}
+{"prompt": "Symptom: My child is experiencing My child has i have vomiting and stomach pain", "completion": "First Aid: Take rest, sip oral rehydration solution, and avoid oily food."}
+{"prompt": "Symptom: My child is experiencing Lately I feel i feel dizzy", "completion": "First Aid: Sit down immediately, relax, and drink fluids."}
+{"prompt": "Symptom: My child has i cut my finger", "completion": "First Aid: Rinse the cut with clean water, apply antiseptic cream, and cover lightly."}
+{"prompt": "Symptom: My child has my child\u2019s child is choking", "completion": "First Aid: Encourage coughing, and if needed, perform abdominal thrusts (Heimlich maneuver)."}
+{"prompt": "Symptom: My child has i have vomiting and stomach pain", "completion": "First Aid: Drink small amounts of clear fluids, rest, and avoid solid food for a while."}
+{"prompt": "Symptom: my child has a nosebleed problem", "completion": "First Aid: Keep the child sitting upright, tilt head slightly forward, and pinch the nose."}
+{"prompt": "Symptom: My kid is facing i cut my child\u2019s finger", "completion": "First Aid: Wash gently with water, put some antiseptic, and use a clean bandage."}
+{"prompt": "Symptom: I suffer from i cut my finger", "completion": "First Aid: Wash gently with water, put some antiseptic, and use a clean bandage."}
+{"prompt": "Symptom: I am experiencing my child has a nosebleed", "completion": "First Aid: Sit upright, lean forward, and pinch the nose for 10 minutes."}
+{"prompt": "Symptom: Feeling i have vomiting and stomach pain", "completion": "First Aid: Sip water slowly, rest, and eat light food."}
+{"prompt": "Symptom: My child is experiencing i burnt my child\u2019s hand", "completion": "First Aid: Place the burn under cool water for several minutes, cover with a clean cloth, and get medical help."}
+{"prompt": "Symptom: my child\u2019s child is choking problem", "completion": "First Aid: Encourage coughing first; if unsuccessful, try abdominal thrusts and seek help."}
+{"prompt": "Symptom: I suffer from my child\u2019s child is choking", "completion": "First Aid: Encourage coughing first; if unsuccessful, try abdominal thrusts and seek help."}
+{"prompt": "Symptom: my child is choking is bothering me", "completion": "First Aid: Encourage coughing, and if needed, perform abdominal thrusts (Heimlich maneuver)."}
+{"prompt": "Symptom: I am experiencing i can't breathe properly", "completion": "First Aid: Sit upright, try to stay calm, and seek emergency medical help immediately."}
+{"prompt": "Symptom: My kid is facing i cut my child\u2019s finger", "completion": "First Aid: Wash gently with water, put some antiseptic, and use a clean bandage."}
+{"prompt": "Symptom: I suffer from i have vomiting and stomach pain", "completion": "First Aid: Sip water slowly, rest, and eat light food."}
+{"prompt": "Symptom: Lately I feel i feel dizzy", "completion": "First Aid: Sit down immediately, relax, and drink fluids."}
+{"prompt": "Symptom: My kid is facing i have vomiting and stomach pain", "completion": "First Aid: Take rest, sip oral rehydration solution, and avoid oily food."}
+{"prompt": "Symptom: My child is experiencing i can't breathe properly problem", "completion": "First Aid: Sit upright, try to stay calm, and seek emergency medical help immediately."}
+{"prompt": "Symptom: I suffer from i burnt my child\u2019s hand", "completion": "First Aid: Run cool water over the burn, do not apply ointments, and seek emergency help."}
+{"prompt": "Symptom: My child is experiencing i have a headache problem", "completion": "First Aid: Rest in a quiet place, drink water, and avoid bright light."}
+{"prompt": "Symptom: I am experiencing i cut my finger", "completion": "First Aid: Clean the wound with water, apply antiseptic, and cover with a bandage."}
+{"prompt": "Symptom: i cut my finger is bothering me", "completion": "First Aid: Rinse the cut with clean water, apply antiseptic cream, and cover lightly."}
+{"prompt": "Symptom: Having issues with my child is choking", "completion": "First Aid: Encourage coughing first; if unsuccessful, try abdominal thrusts and seek help."}
+{"prompt": "Symptom: my child has a nosebleed is bothering me", "completion": "First Aid: Apply gentle pressure to the nose while sitting and leaning forward."}
+{"prompt": "Symptom: My kid is facing my child\u2019s child has a nosebleed", "completion": "First Aid: Sit upright, lean forward, and pinch the nose for 10 minutes."}
+{"prompt": "Symptom: I got i can't breathe properly", "completion": "First Aid: Seek urgent medical help, keep calm, and sit in a comfortable upright position."}
+{"prompt": "Symptom: I am experiencing i burnt my hand", "completion": "First Aid: Place the burn under cool water for several minutes, cover with a clean cloth, and get medical help."}
+{"prompt": "Symptom: Feeling i cut my child\u2019s finger", "completion": "First Aid: Wash gently with water, put some antiseptic, and use a clean bandage."}
+{"prompt": "Symptom: My child is experiencing Feeling i have vomiting and stomach pain", "completion": "First Aid: Sip water slowly, rest, and eat light food."}
+{"prompt": "Symptom: My kid is facing i cut my finger", "completion": "First Aid: Wash gently with water, put some antiseptic, and use a clean bandage."}
+{"prompt": "Symptom: My child is experiencing Feeling i feel dizzy", "completion": "First Aid: Sit down immediately, relax, and drink fluids."}
+{"prompt": "Symptom: My child is experiencing i have vomiting and stomach pain is bothering me", "completion": "First Aid: Take rest, sip oral rehydration solution, and avoid oily food."}
+{"prompt": "Symptom: my child\u2019s kid has a tummy child\u2019s ache problem", "completion": "First Aid: Encourage rest, give light meals, and plenty of fluids."}
+{"prompt": "Symptom: Lately I feel i feel dizzy", "completion": "First Aid: Sit down immediately, relax, and drink fluids."}
+{"prompt": "Symptom: Having issues with my child\u2019s child is choking", "completion": "First Aid: Encourage coughing, and if needed, perform abdominal thrusts (Heimlich maneuver)."}
+{"prompt": "Symptom: i feel dizzy is bothering me", "completion": "First Aid: Sit or lie down, drink water, and rest."}
+{"prompt": "Symptom: I got i can't breathe properly", "completion": "First Aid: Seek urgent medical help, keep calm, and sit in a comfortable upright position."}
+{"prompt": "Symptom: My child is experiencing I suffer from i feel dizzy", "completion": "First Aid: Sit or lie down, drink water, and rest."}
+{"prompt": "Symptom: I am experiencing i cut my finger", "completion": "First Aid: Clean the wound with water, apply antiseptic, and cover with a bandage."}
+{"prompt": "Symptom: I got i feel dizzy", "completion": "First Aid: Rest in a safe position and sip water slowly."}
+{"prompt": "Symptom: My child is experiencing I got i have a headache", "completion": "First Aid: Take rest, sip some water, and avoid noise and screens."}
+{"prompt": "Symptom: I suffer from i cut my finger", "completion": "First Aid: Wash gently with water, put some antiseptic, and use a clean bandage."}
+{"prompt": "Symptom: I got i burnt my hand", "completion": "First Aid: Place the burn under cool water for several minutes, cover with a clean cloth, and get medical help."}
+{"prompt": "Symptom: My child is experiencing I got i can't breathe properly", "completion": "First Aid: Call emergency services right away, sit upright, and remain calm."}
+{"prompt": "Symptom: My kid is facing i burnt my hand", "completion": "First Aid: Run cool water over the burn, do not apply ointments, and seek emergency help."}
+{"prompt": "Symptom: My child is experiencing Lately I feel i feel dizzy", "completion": "First Aid: Sit or lie down, drink water, and rest."}
+{"prompt": "Symptom: i burnt my child\u2019s hand problem", "completion": "First Aid: Cool the burn under running water, cover loosely with a clean cloth, and seek emergency medical help."}
+{"prompt": "Symptom: My kid is facing i burnt my child\u2019s hand", "completion": "First Aid: Run cool water over the burn, do not apply ointments, and seek emergency help."}
+{"prompt": "Symptom: My child is experiencing Feeling i have a headache", "completion": "First Aid: Lie down in a calm room, keep yourself hydrated, and relax."}
+{"prompt": "Symptom: i have vomiting and stomach pain is bothering me", "completion": "First Aid: Take rest, sip oral rehydration solution, and avoid oily food."}
+{"prompt": "Symptom: My child is experiencing Having issues with i feel dizzy", "completion": "First Aid: Sit or lie down, drink water, and rest."}
+{"prompt": "Symptom: I got my child has a nosebleed", "completion": "First Aid: Sit upright, lean forward, and pinch the nose for 10 minutes."}
+{"prompt": "Symptom: I am experiencing i cut my finger", "completion": "First Aid: Rinse the cut with clean water, apply antiseptic cream, and cover lightly."}
+{"prompt": "Symptom: my child\u2019s child is choking problem", "completion": "First Aid: If the child cannot breathe, perform the Heimlich maneuver and call emergency services."}
+{"prompt": "Symptom: Having issues with my child\u2019s child is choking", "completion": "First Aid: Encourage coughing, and if needed, perform abdominal thrusts (Heimlich maneuver)."}
+{"prompt": "Symptom: My child has my child is choking", "completion": "First Aid: Encourage coughing, and if needed, perform abdominal thrusts (Heimlich maneuver)."}
+{"prompt": "Symptom: I suffer from i feel dizzy", "completion": "First Aid: Sit or lie down, drink water, and rest."}
+{"prompt": "Symptom: My child is experiencing i have a headache problem", "completion": "First Aid: Take rest, sip some water, and avoid noise and screens."}
+{"prompt": "Symptom: Having issues with i burnt my hand", "completion": "First Aid: Cool the burn under running water, cover loosely with a clean cloth, and seek emergency medical help."}
+{"prompt": "Symptom: My kid is facing i burnt my child\u2019s hand", "completion": "First Aid: Cool the burn under running water, cover loosely with a clean cloth, and seek emergency medical help."}
+{"prompt": "Symptom: Having issues with my child is choking", "completion": "First Aid: Encourage coughing, and if needed, perform abdominal thrusts (Heimlich maneuver)."}
+{"prompt": "Symptom: I suffer from my child\u2019s child has a nosebleed", "completion": "First Aid: Apply gentle pressure to the nose while sitting and leaning forward."}
+{"prompt": "Symptom: I suffer from i can't breathe properly", "completion": "First Aid: Sit upright, try to stay calm, and seek emergency medical help immediately."}
+{"prompt": "Symptom: i burnt my hand is bothering me", "completion": "First Aid: Cool the burn under running water, cover loosely with a clean cloth, and seek emergency medical help."}
+{"prompt": "Symptom: Having issues with i burnt my hand", "completion": "First Aid: Place the burn under cool water for several minutes, cover with a clean cloth, and get medical help."}
+{"prompt": "Symptom: My child has i feel dizzy", "completion": "First Aid: Sit down immediately, relax, and drink fluids."}
+{"prompt": "Symptom: My child has i cut my child\u2019s finger", "completion": "First Aid: Wash gently with water, put some antiseptic, and use a clean bandage."}
+{"prompt": "Symptom: My child is experiencing I suffer from i feel dizzy", "completion": "First Aid: Sit or lie down, drink water, and rest."}
+{"prompt": "Symptom: My child has my child\u2019s kid has a tummy child\u2019s ache", "completion": "First Aid: Encourage rest, give light meals, and plenty of fluids."}
+{"prompt": "Symptom: Having issues with i burnt my child\u2019s hand", "completion": "First Aid: Place the burn under cool water for several minutes, cover with a clean cloth, and get medical help."}
+{"prompt": "Symptom: Lately I feel i have a headache", "completion": "First Aid: Take rest, sip some water, and avoid noise and screens."}
+{"prompt": "Symptom: My child has my child has a nosebleed", "completion": "First Aid: Apply gentle pressure to the nose while sitting and leaning forward."}
+{"prompt": "Symptom: I suffer from i can't breathe properly", "completion": "First Aid: Seek urgent medical help, keep calm, and sit in a comfortable upright position."}
+{"prompt": "Symptom: My child is experiencing Feeling i have a headache", "completion": "First Aid: Rest in a quiet place, drink water, and avoid bright light."}
+{"prompt": "Symptom: I am experiencing i have vomiting and stomach pain", "completion": "First Aid: Drink small amounts of clear fluids, rest, and avoid solid food for a while."}
+{"prompt": "Symptom: My child is experiencing i have a headache", "completion": "First Aid: Lie down in a calm room, keep yourself hydrated, and relax."}
+{"prompt": "Symptom: my kid has a tummy ache problem", "completion": "First Aid: Encourage rest, give light meals, and plenty of fluids."}
+{"prompt": "Symptom: Lately I feel i cut my child\u2019s finger", "completion": "First Aid: Rinse the cut with clean water, apply antiseptic cream, and cover lightly."}
+{"prompt": "Symptom: I got my child is choking", "completion": "First Aid: Encourage coughing first; if unsuccessful, try abdominal thrusts and seek help."}
+{"prompt": "Symptom: Having issues with my kid has a tummy ache", "completion": "First Aid: Encourage rest, give light meals, and plenty of fluids."}
+{"prompt": "Symptom: My child is experiencing i feel dizzy", "completion": "First Aid: Sit down immediately, relax, and drink fluids."}
+{"prompt": "Symptom: My child has my child\u2019s child is choking", "completion": "First Aid: Encourage coughing first; if unsuccessful, try abdominal thrusts and seek help."}
+{"prompt": "Symptom: Having issues with i can't breathe properly", "completion": "First Aid: Sit upright, try to stay calm, and seek emergency medical help immediately."}
+{"prompt": "Symptom: my child\u2019s kid has a tummy child\u2019s ache problem", "completion": "First Aid: Encourage rest, give light meals, and plenty of fluids."}
+{"prompt": "Symptom: I suffer from i feel dizzy", "completion": "First Aid: Sit or lie down, drink water, and rest."}
+{"prompt": "Symptom: my child\u2019s child is choking is bothering me", "completion": "First Aid: Encourage coughing first; if unsuccessful, try abdominal thrusts and seek help."}
+{"prompt": "Symptom: Feeling my child\u2019s child is choking", "completion": "First Aid: If the child cannot breathe, perform the Heimlich maneuver and call emergency services."}
+{"prompt": "Symptom: I got i burnt my child\u2019s hand", "completion": "First Aid: Place the burn under cool water for several minutes, cover with a clean cloth, and get medical help."}
+{"prompt": "Symptom: I got i burnt my child\u2019s hand", "completion": "First Aid: Place the burn under cool water for several minutes, cover with a clean cloth, and get medical help."}
+{"prompt": "Symptom: i cut my finger problem", "completion": "First Aid: Rinse the cut with clean water, apply antiseptic cream, and cover lightly."}
+{"prompt": "Symptom: My child is experiencing My kid is facing i can't breathe properly", "completion": "First Aid: Call emergency services right away, sit upright, and remain calm."}
+{"prompt": "Symptom: My child is experiencing Feeling i feel dizzy", "completion": "First Aid: Rest in a safe position and sip water slowly."}
+{"prompt": "Symptom: i burnt my child\u2019s hand problem", "completion": "First Aid: Run cool water over the burn, do not apply ointments, and seek emergency help."}
+{"prompt": "Symptom: My child is experiencing My child has i feel dizzy", "completion": "First Aid: Sit down immediately, relax, and drink fluids."}
+{"prompt": "Symptom: I suffer from my child\u2019s child has a nosebleed", "completion": "First Aid: Apply gentle pressure to the nose while sitting and leaning forward."}
+{"prompt": "Symptom: Having issues with i burnt my hand", "completion": "First Aid: Cool the burn under running water, cover loosely with a clean cloth, and seek emergency medical help."}
+{"prompt": "Symptom: Feeling i cut my finger", "completion": "First Aid: Rinse the cut with clean water, apply antiseptic cream, and cover lightly."}
+{"prompt": "Symptom: Lately I feel i have vomiting and stomach pain", "completion": "First Aid: Drink small amounts of clear fluids, rest, and avoid solid food for a while."}
+{"prompt": "Symptom: I suffer from my child\u2019s child has a nosebleed", "completion": "First Aid: Apply gentle pressure to the nose while sitting and leaning forward."}
+{"prompt": "Symptom: My child is experiencing Having issues with i have a headache", "completion": "First Aid: Rest in a quiet place, drink water, and avoid bright light."}
+{"prompt": "Symptom: I got my kid has a tummy ache", "completion": "First Aid: Rest and give small sips of water; avoid spicy or heavy food."}
+{"prompt": "Symptom: My child is experiencing Lately I feel i can't breathe properly", "completion": "First Aid: Call emergency services right away, sit upright, and remain calm."}
+{"prompt": "Symptom: Lately I feel i have vomiting and stomach pain", "completion": "First Aid: Take rest, sip oral rehydration solution, and avoid oily food."}
+{"prompt": "Symptom: i burnt my child\u2019s hand problem", "completion": "First Aid: Run cool water over the burn, do not apply ointments, and seek emergency help."}
+{"prompt": "Symptom: My child has my child is choking", "completion": "First Aid: Encourage coughing first; if unsuccessful, try abdominal thrusts and seek help."}
+{"prompt": "Symptom: Having issues with i burnt my hand", "completion": "First Aid: Place the burn under cool water for several minutes, cover with a clean cloth, and get medical help."}
+{"prompt": "Symptom: My child is experiencing i cut my child\u2019s finger", "completion": "First Aid: Clean the wound with water, apply antiseptic, and cover with a bandage."}
+{"prompt": "Symptom: My kid is facing my child\u2019s kid has a tummy child\u2019s ache", "completion": "First Aid: Offer clear fluids, let the child rest, and avoid heavy meals."}
+{"prompt": "Symptom: I got my child is choking", "completion": "First Aid: If the child cannot breathe, perform the Heimlich maneuver and call emergency services."}
+{"prompt": "Symptom: my child\u2019s child has a nosebleed is bothering me", "completion": "First Aid: Keep the child sitting upright, tilt head slightly forward, and pinch the nose."}
+{"prompt": "Symptom: My child is experiencing my child\u2019s child has a nosebleed", "completion": "First Aid: Sit upright, lean forward, and pinch the nose for 10 minutes."}
+{"prompt": "Symptom: i burnt my child\u2019s hand problem", "completion": "First Aid: Run cool water over the burn, do not apply ointments, and seek emergency help."}
+{"prompt": "Symptom: My child is experiencing i have a headache is bothering me", "completion": "First Aid: Rest in a quiet place, drink water, and avoid bright light."}
+{"prompt": "Symptom: Feeling my child has a nosebleed", "completion": "First Aid: Sit upright, lean forward, and pinch the nose for 10 minutes."}
+{"prompt": "Symptom: My child is experiencing Lately I feel i have vomiting and stomach pain", "completion": "First Aid: Sip water slowly, rest, and eat light food."}
+{"prompt": "Symptom: My kid is facing my child\u2019s kid has a tummy child\u2019s ache", "completion": "First Aid: Encourage rest, give light meals, and plenty of fluids."}
+{"prompt": "Symptom: Feeling my kid has a tummy ache", "completion": "First Aid: Offer clear fluids, let the child rest, and avoid heavy meals."}
+{"prompt": "Symptom: Having issues with my kid has a tummy ache", "completion": "First Aid: Encourage rest, give light meals, and plenty of fluids."}
+{"prompt": "Symptom: I suffer from i have a headache", "completion": "First Aid: Take rest, sip some water, and avoid noise and screens."}
+{"prompt": "Symptom: my child is choking problem", "completion": "First Aid: Encourage coughing, and if needed, perform abdominal thrusts (Heimlich maneuver)."}
+{"prompt": "Symptom: i can't breathe properly is bothering me", "completion": "First Aid: Seek urgent medical help, keep calm, and sit in a comfortable upright position."}
+{"prompt": "Symptom: I suffer from i cut my finger", "completion": "First Aid: Rinse the cut with clean water, apply antiseptic cream, and cover lightly."}
+{"prompt": "Symptom: i have vomiting and stomach pain problem", "completion": "First Aid: Drink small amounts of clear fluids, rest, and avoid solid food for a while."}
+{"prompt": "Symptom: My child is experiencing I got i feel dizzy", "completion": "First Aid: Rest in a safe position and sip water slowly."}
+{"prompt": "Symptom: I got i burnt my hand", "completion": "First Aid: Cool the burn under running water, cover loosely with a clean cloth, and seek emergency medical help."}
+{"prompt": "Symptom: I got my child\u2019s child has a nosebleed", "completion": "First Aid: Keep the child sitting upright, tilt head slightly forward, and pinch the nose."}
+{"prompt": "Symptom: I got i burnt my child\u2019s hand", "completion": "First Aid: Place the burn under cool water for several minutes, cover with a clean cloth, and get medical help."}
+{"prompt": "Symptom: I got i cut my child\u2019s finger", "completion": "First Aid: Clean the wound with water, apply antiseptic, and cover with a bandage."}
+{"prompt": "Symptom: my child has a nosebleed problem", "completion": "First Aid: Keep the child sitting upright, tilt head slightly forward, and pinch the nose."}
+{"prompt": "Symptom: Lately I feel i burnt my child\u2019s hand", "completion": "First Aid: Run cool water over the burn, do not apply ointments, and seek emergency help."}
+{"prompt": "Symptom: I got i have a headache", "completion": "First Aid: Lie down in a calm room, keep yourself hydrated, and relax."}
+{"prompt": "Symptom: My kid is facing my child\u2019s kid has a tummy child\u2019s ache", "completion": "First Aid: Encourage rest, give light meals, and plenty of fluids."}
+{"prompt": "Symptom: My kid is facing my child is choking", "completion": "First Aid: If the child cannot breathe, perform the Heimlich maneuver and call emergency services."}
+{"prompt": "Symptom: i cut my child\u2019s finger is bothering me", "completion": "First Aid: Wash gently with water, put some antiseptic, and use a clean bandage."}
+{"prompt": "Symptom: My child has i have a headache", "completion": "First Aid: Lie down in a calm room, keep yourself hydrated, and relax."}
+{"prompt": "Symptom: My child is experiencing i have a headache problem", "completion": "First Aid: Rest in a quiet place, drink water, and avoid bright light."}
+{"prompt": "Symptom: I got my child is choking", "completion": "First Aid: Encourage coughing, and if needed, perform abdominal thrusts (Heimlich maneuver)."}
+{"prompt": "Symptom: My kid is facing i cut my finger", "completion": "First Aid: Wash gently with water, put some antiseptic, and use a clean bandage."}
+{"prompt": "Symptom: Feeling my child\u2019s kid has a tummy child\u2019s ache", "completion": "First Aid: Encourage rest, give light meals, and plenty of fluids."}
+{"prompt": "Symptom: i burnt my hand is bothering me", "completion": "First Aid: Cool the burn under running water, cover loosely with a clean cloth, and seek emergency medical help."}
+{"prompt": "Symptom: My child has my child\u2019s kid has a tummy child\u2019s ache", "completion": "First Aid: Offer clear fluids, let the child rest, and avoid heavy meals."}
+{"prompt": "Symptom: My child is experiencing Lately I feel i can't breathe properly", "completion": "First Aid: Seek urgent medical help, keep calm, and sit in a comfortable upright position."}
+{"prompt": "Symptom: I suffer from i cut my child\u2019s finger", "completion": "First Aid: Rinse the cut with clean water, apply antiseptic cream, and cover lightly."}
+{"prompt": "Symptom: My child has my child\u2019s child has a nosebleed", "completion": "First Aid: Apply gentle pressure to the nose while sitting and leaning forward."}
+{"prompt": "Symptom: Having issues with my child\u2019s child is choking", "completion": "First Aid: If the child cannot breathe, perform the Heimlich maneuver and call emergency services."}
+{"prompt": "Symptom: My child is experiencing Feeling i have a headache", "completion": "First Aid: Lie down in a calm room, keep yourself hydrated, and relax."}
+{"prompt": "Symptom: i cut my child\u2019s finger problem", "completion": "First Aid: Rinse the cut with clean water, apply antiseptic cream, and cover lightly."}
+{"prompt": "Symptom: Feeling i have vomiting and stomach pain", "completion": "First Aid: Take rest, sip oral rehydration solution, and avoid oily food."}
+{"prompt": "Symptom: I suffer from my child\u2019s child is choking", "completion": "First Aid: Encourage coughing first; if unsuccessful, try abdominal thrusts and seek help."}
+{"prompt": "Symptom: my child is choking problem", "completion": "First Aid: Encourage coughing, and if needed, perform abdominal thrusts (Heimlich maneuver)."}
+{"prompt": "Symptom: I got i cut my finger", "completion": "First Aid: Clean the wound with water, apply antiseptic, and cover with a bandage."}
+{"prompt": "Symptom: My kid is facing i can't breathe properly", "completion": "First Aid: Seek urgent medical help, keep calm, and sit in a comfortable upright position."}
+{"prompt": "Symptom: I am experiencing my child is choking", "completion": "First Aid: If the child cannot breathe, perform the Heimlich maneuver and call emergency services."}
+{"prompt": "Symptom: I got i have vomiting and stomach pain", "completion": "First Aid: Sip water slowly, rest, and eat light food."}
+{"prompt": "Symptom: My child is experiencing Feeling i can't breathe properly", "completion": "First Aid: Call emergency services right away, sit upright, and remain calm."}
+{"prompt": "Symptom: I am experiencing i burnt my hand", "completion": "First Aid: Place the burn under cool water for several minutes, cover with a clean cloth, and get medical help."}
+{"prompt": "Symptom: I am experiencing i can't breathe properly", "completion": "First Aid: Seek urgent medical help, keep calm, and sit in a comfortable upright position."}
+{"prompt": "Symptom: Having issues with i have vomiting and stomach pain", "completion": "First Aid: Sip water slowly, rest, and eat light food."}
+{"prompt": "Symptom: I am experiencing my child has a nosebleed", "completion": "First Aid: Keep the child sitting upright, tilt head slightly forward, and pinch the nose."}
+{"prompt": "Symptom: My child is experiencing Lately I feel i feel dizzy", "completion": "First Aid: Sit or lie down, drink water, and rest."}
+{"prompt": "Symptom: My child is experiencing My child has i can't breathe properly", "completion": "First Aid: Sit upright, try to stay calm, and seek emergency medical help immediately."}
+{"prompt": "Symptom: My kid is facing i burnt my hand", "completion": "First Aid: Place the burn under cool water for several minutes, cover with a clean cloth, and get medical help."}
+{"prompt": "Symptom: Feeling my child\u2019s kid has a tummy child\u2019s ache", "completion": "First Aid: Encourage rest, give light meals, and plenty of fluids."}
+{"prompt": "Symptom: Feeling i burnt my hand", "completion": "First Aid: Run cool water over the burn, do not apply ointments, and seek emergency help."}
+{"prompt": "Symptom: Lately I feel i burnt my child\u2019s hand", "completion": "First Aid: Place the burn under cool water for several minutes, cover with a clean cloth, and get medical help."}
+{"prompt": "Symptom: My child is experiencing i feel dizzy problem", "completion": "First Aid: Sit down immediately, relax, and drink fluids."}
+{"prompt": "Symptom: My kid is facing i feel dizzy", "completion": "First Aid: Sit or lie down, drink water, and rest."}
+{"prompt": "Symptom: Having issues with my child has a nosebleed", "completion": "First Aid: Sit upright, lean forward, and pinch the nose for 10 minutes."}
+{"prompt": "Symptom: Feeling i have a headache", "completion": "First Aid: Lie down in a calm room, keep yourself hydrated, and relax."}
+{"prompt": "Symptom: I got my child\u2019s child is choking", "completion": "First Aid: If the child cannot breathe, perform the Heimlich maneuver and call emergency services."}
+{"prompt": "Symptom: Lately I feel i cut my child\u2019s finger", "completion": "First Aid: Wash gently with water, put some antiseptic, and use a clean bandage."}
+{"prompt": "Symptom: I got my child\u2019s child is choking", "completion": "First Aid: Encourage coughing first; if unsuccessful, try abdominal thrusts and seek help."}
+{"prompt": "Symptom: my child\u2019s child is choking is bothering me", "completion": "First Aid: If the child cannot breathe, perform the Heimlich maneuver and call emergency services."}
+{"prompt": "Symptom: My child is experiencing Feeling i can't breathe properly", "completion": "First Aid: Seek urgent medical help, keep calm, and sit in a comfortable upright position."}
+{"prompt": "Symptom: My kid is facing i burnt my hand", "completion": "First Aid: Cool the burn under running water, cover loosely with a clean cloth, and seek emergency medical help."}
+{"prompt": "Symptom: i burnt my hand problem", "completion": "First Aid: Run cool water over the burn, do not apply ointments, and seek emergency help."}
+{"prompt": "Symptom: Having issues with my kid has a tummy ache", "completion": "First Aid: Rest and give small sips of water; avoid spicy or heavy food."}
+{"prompt": "Symptom: I got my child has a nosebleed", "completion": "First Aid: Apply gentle pressure to the nose while sitting and leaning forward."}
+{"prompt": "Symptom: I am experiencing i cut my finger", "completion": "First Aid: Rinse the cut with clean water, apply antiseptic cream, and cover lightly."}
+{"prompt": "Symptom: Lately I feel my child\u2019s child has a nosebleed", "completion": "First Aid: Keep the child sitting upright, tilt head slightly forward, and pinch the nose."}
+{"prompt": "Symptom: Having issues with my child is choking", "completion": "First Aid: Encourage coughing, and if needed, perform abdominal thrusts (Heimlich maneuver)."}
+{"prompt": "Symptom: My kid is facing my kid has a tummy ache", "completion": "First Aid: Encourage rest, give light meals, and plenty of fluids."}
+{"prompt": "Symptom: I suffer from my child\u2019s child has a nosebleed", "completion": "First Aid: Keep the child sitting upright, tilt head slightly forward, and pinch the nose."}
+{"prompt": "Symptom: Having issues with my child\u2019s child is choking", "completion": "First Aid: Encourage coughing, and if needed, perform abdominal thrusts (Heimlich maneuver)."}
+{"prompt": "Symptom: Having issues with i cut my child\u2019s finger", "completion": "First Aid: Clean the wound with water, apply antiseptic, and cover with a bandage."}
+{"prompt": "Symptom: my child\u2019s child is choking problem", "completion": "First Aid: Encourage coughing first; if unsuccessful, try abdominal thrusts and seek help."}
+{"prompt": "Symptom: Having issues with my child\u2019s child is choking", "completion": "First Aid: Encourage coughing first; if unsuccessful, try abdominal thrusts and seek help."}
+{"prompt": "Symptom: i have a headache problem", "completion": "First Aid: Take rest, sip some water, and avoid noise and screens."}
+{"prompt": "Symptom: Having issues with i cut my child\u2019s finger", "completion": "First Aid: Wash gently with water, put some antiseptic, and use a clean bandage."}
+{"prompt": "Symptom: Lately I feel i have vomiting and stomach pain", "completion": "First Aid: Sip water slowly, rest, and eat light food."}
+{"prompt": "Symptom: My child has my child\u2019s child has a nosebleed", "completion": "First Aid: Sit upright, lean forward, and pinch the nose for 10 minutes."}
+{"prompt": "Symptom: My kid is facing my kid has a tummy ache", "completion": "First Aid: Encourage rest, give light meals, and plenty of fluids."}
+{"prompt": "Symptom: Lately I feel my child is choking", "completion": "First Aid: Encourage coughing first; if unsuccessful, try abdominal thrusts and seek help."}
+{"prompt": "Symptom: My child is experiencing Lately I feel i have vomiting and stomach pain", "completion": "First Aid: Take rest, sip oral rehydration solution, and avoid oily food."}
+{"prompt": "Symptom: My child is experiencing Lately I feel i have a headache", "completion": "First Aid: Take rest, sip some water, and avoid noise and screens."}
+{"prompt": "Symptom: My child is experiencing My kid is facing i feel dizzy", "completion": "First Aid: Sit or lie down, drink water, and rest."}
+{"prompt": "Symptom: Lately I feel i burnt my hand", "completion": "First Aid: Cool the burn under running water, cover loosely with a clean cloth, and seek emergency medical help."}
+{"prompt": "Symptom: My kid is facing i burnt my child\u2019s hand", "completion": "First Aid: Run cool water over the burn, do not apply ointments, and seek emergency help."}
+{"prompt": "Symptom: Lately I feel i cut my finger", "completion": "First Aid: Wash gently with water, put some antiseptic, and use a clean bandage."}
+{"prompt": "Symptom: I suffer from my child\u2019s child is choking", "completion": "First Aid: Encourage coughing, and if needed, perform abdominal thrusts (Heimlich maneuver)."}
+{"prompt": "Symptom: My child is experiencing i cut my child\u2019s finger", "completion": "First Aid: Rinse the cut with clean water, apply antiseptic cream, and cover lightly."}
+{"prompt": "Symptom: Lately I feel i can't breathe properly", "completion": "First Aid: Sit upright, try to stay calm, and seek emergency medical help immediately."}
+{"prompt": "Symptom: My child has my child\u2019s child has a nosebleed", "completion": "First Aid: Keep the child sitting upright, tilt head slightly forward, and pinch the nose."}
+{"prompt": "Symptom: Lately I feel my child\u2019s child is choking", "completion": "First Aid: If the child cannot breathe, perform the Heimlich maneuver and call emergency services."}
+{"prompt": "Symptom: My child has my child is choking", "completion": "First Aid: Encourage coughing, and if needed, perform abdominal thrusts (Heimlich maneuver)."}
+{"prompt": "Symptom: my child\u2019s kid has a tummy child\u2019s ache is bothering me", "completion": "First Aid: Rest and give small sips of water; avoid spicy or heavy food."}
+{"prompt": "Symptom: i can't breathe properly is bothering me", "completion": "First Aid: Seek urgent medical help, keep calm, and sit in a comfortable upright position."}
+{"prompt": "Symptom: I suffer from i cut my child\u2019s finger", "completion": "First Aid: Rinse the cut with clean water, apply antiseptic cream, and cover lightly."}
+{"prompt": "Symptom: My kid is facing i burnt my hand", "completion": "First Aid: Place the burn under cool water for several minutes, cover with a clean cloth, and get medical help."}
+{"prompt": "Symptom: My child is experiencing My kid is facing i feel dizzy", "completion": "First Aid: Sit or lie down, drink water, and rest."}
+{"prompt": "Symptom: My child is experiencing I got i have vomiting and stomach pain", "completion": "First Aid: Drink small amounts of clear fluids, rest, and avoid solid food for a while."}
+{"prompt": "Symptom: Having issues with i have vomiting and stomach pain", "completion": "First Aid: Drink small amounts of clear fluids, rest, and avoid solid food for a while."}
+{"prompt": "Symptom: My kid is facing i burnt my child\u2019s hand", "completion": "First Aid: Place the burn under cool water for several minutes, cover with a clean cloth, and get medical help."}
+{"prompt": "Symptom: Having issues with i have a headache", "completion": "First Aid: Rest in a quiet place, drink water, and avoid bright light."}
+{"prompt": "Symptom: My child is experiencing Having issues with i can't breathe properly", "completion": "First Aid: Seek urgent medical help, keep calm, and sit in a comfortable upright position."}
+{"prompt": "Symptom: i burnt my hand problem", "completion": "First Aid: Place the burn under cool water for several minutes, cover with a clean cloth, and get medical help."}
+{"prompt": "Symptom: i can't breathe properly is bothering me", "completion": "First Aid: Sit upright, try to stay calm, and seek emergency medical help immediately."}
+{"prompt": "Symptom: I got i feel dizzy", "completion": "First Aid: Rest in a safe position and sip water slowly."}
+{"prompt": "Symptom: my child\u2019s child is choking problem", "completion": "First Aid: Encourage coughing first; if unsuccessful, try abdominal thrusts and seek help."}
+{"prompt": "Symptom: i burnt my hand problem", "completion": "First Aid: Cool the burn under running water, cover loosely with a clean cloth, and seek emergency medical help."}
+{"prompt": "Symptom: Feeling i burnt my hand", "completion": "First Aid: Run cool water over the burn, do not apply ointments, and seek emergency help."}
+{"prompt": "Symptom: I suffer from i burnt my hand", "completion": "First Aid: Place the burn under cool water for several minutes, cover with a clean cloth, and get medical help."}
+{"prompt": "Symptom: I got i have vomiting and stomach pain", "completion": "First Aid: Take rest, sip oral rehydration solution, and avoid oily food."}
+{"prompt": "Symptom: My child is experiencing i have a headache", "completion": "First Aid: Rest in a quiet place, drink water, and avoid bright light."}
+{"prompt": "Symptom: My child is experiencing I got i can't breathe properly", "completion": "First Aid: Seek urgent medical help, keep calm, and sit in a comfortable upright position."}
+{"prompt": "Symptom: Having issues with i can't breathe properly", "completion": "First Aid: Sit upright, try to stay calm, and seek emergency medical help immediately."}
+{"prompt": "Symptom: Lately I feel my child has a nosebleed", "completion": "First Aid: Keep the child sitting upright, tilt head slightly forward, and pinch the nose."}
+{"prompt": "Symptom: Feeling i can't breathe properly", "completion": "First Aid: Seek urgent medical help, keep calm, and sit in a comfortable upright position."}
+{"prompt": "Symptom: I suffer from my child is choking", "completion": "First Aid: If the child cannot breathe, perform the Heimlich maneuver and call emergency services."}
+{"prompt": "Symptom: I suffer from i burnt my hand", "completion": "First Aid: Run cool water over the burn, do not apply ointments, and seek emergency help."}
+{"prompt": "Symptom: My kid is facing i cut my finger", "completion": "First Aid: Wash gently with water, put some antiseptic, and use a clean bandage."}
+{"prompt": "Symptom: My kid is facing i have vomiting and stomach pain", "completion": "First Aid: Take rest, sip oral rehydration solution, and avoid oily food."}
+{"prompt": "Symptom: I got my child\u2019s child is choking", "completion": "First Aid: Encourage coughing first; if unsuccessful, try abdominal thrusts and seek help."}
+{"prompt": "Symptom: My child is experiencing I suffer from i feel dizzy", "completion": "First Aid: Sit or lie down, drink water, and rest."}
+{"prompt": "Symptom: Feeling i cut my child\u2019s finger", "completion": "First Aid: Rinse the cut with clean water, apply antiseptic cream, and cover lightly."}
+{"prompt": "Symptom: My child has my kid has a tummy ache", "completion": "First Aid: Rest and give small sips of water; avoid spicy or heavy food."}
+{"prompt": "Symptom: i burnt my hand problem", "completion": "First Aid: Run cool water over the burn, do not apply ointments, and seek emergency help."}
+{"prompt": "Symptom: Having issues with my child\u2019s kid has a tummy child\u2019s ache", "completion": "First Aid: Offer clear fluids, let the child rest, and avoid heavy meals."}
+{"prompt": "Symptom: My child is experiencing My child has i feel dizzy", "completion": "First Aid: Sit down immediately, relax, and drink fluids."}
+{"prompt": "Symptom: My child is experiencing Having issues with i can't breathe properly", "completion": "First Aid: Seek urgent medical help, keep calm, and sit in a comfortable upright position."}
+{"prompt": "Symptom: i feel dizzy is bothering me", "completion": "First Aid: Rest in a safe position and sip water slowly."}
+{"prompt": "Symptom: My child is experiencing I got i feel dizzy", "completion": "First Aid: Rest in a safe position and sip water slowly."}
+{"prompt": "Symptom: Feeling i feel dizzy", "completion": "First Aid: Sit down immediately, relax, and drink fluids."}
+{"prompt": "Symptom: i have vomiting and stomach pain is bothering me", "completion": "First Aid: Take rest, sip oral rehydration solution, and avoid oily food."}
+{"prompt": "Symptom: My child has i burnt my hand", "completion": "First Aid: Run cool water over the burn, do not apply ointments, and seek emergency help."}
+{"prompt": "Symptom: I got i have vomiting and stomach pain", "completion": "First Aid: Take rest, sip oral rehydration solution, and avoid oily food."}
+{"prompt": "Symptom: My child has i cut my child\u2019s finger", "completion": "First Aid: Rinse the cut with clean water, apply antiseptic cream, and cover lightly."}
+{"prompt": "Symptom: My child is experiencing Feeling i have vomiting and stomach pain", "completion": "First Aid: Take rest, sip oral rehydration solution, and avoid oily food."}
+{"prompt": "Symptom: My kid is facing i feel dizzy", "completion": "First Aid: Sit down immediately, relax, and drink fluids."}
+{"prompt": "Symptom: My child has i cut my child\u2019s finger", "completion": "First Aid: Rinse the cut with clean water, apply antiseptic cream, and cover lightly."}
+{"prompt": "Symptom: I got my kid has a tummy ache", "completion": "First Aid: Encourage rest, give light meals, and plenty of fluids."}
+{"prompt": "Symptom: Having issues with i burnt my hand", "completion": "First Aid: Run cool water over the burn, do not apply ointments, and seek emergency help."}
+{"prompt": "Symptom: Feeling my child is choking", "completion": "First Aid: Encourage coughing first; if unsuccessful, try abdominal thrusts and seek help."}
+{"prompt": "Symptom: Feeling i cut my child\u2019s finger", "completion": "First Aid: Clean the wound with water, apply antiseptic, and cover with a bandage."}
+{"prompt": "Symptom: I suffer from i cut my finger", "completion": "First Aid: Rinse the cut with clean water, apply antiseptic cream, and cover lightly."}
+{"prompt": "Symptom: My child is experiencing i feel dizzy is bothering me", "completion": "First Aid: Sit or lie down, drink water, and rest."}
+{"prompt": "Symptom: Lately I feel i burnt my hand", "completion": "First Aid: Cool the burn under running water, cover loosely with a clean cloth, and seek emergency medical help."}
+{"prompt": "Symptom: My kid is facing my child is choking", "completion": "First Aid: Encourage coughing, and if needed, perform abdominal thrusts (Heimlich maneuver)."}
+{"prompt": "Symptom: My child is experiencing My child has i have a headache", "completion": "First Aid: Rest in a quiet place, drink water, and avoid bright light."}
+{"prompt": "Symptom: I am experiencing my kid has a tummy ache", "completion": "First Aid: Rest and give small sips of water; avoid spicy or heavy food."}
+{"prompt": "Symptom: My child is experiencing I suffer from i feel dizzy", "completion": "First Aid: Rest in a safe position and sip water slowly."}
+{"prompt": "Symptom: Having issues with i cut my child\u2019s finger", "completion": "First Aid: Wash gently with water, put some antiseptic, and use a clean bandage."}
+{"prompt": "Symptom: I got my child\u2019s kid has a tummy child\u2019s ache", "completion": "First Aid: Encourage rest, give light meals, and plenty of fluids."}
+{"prompt": "Symptom: Feeling i feel dizzy", "completion": "First Aid: Sit down immediately, relax, and drink fluids."}
+{"prompt": "Symptom: Lately I feel i feel dizzy", "completion": "First Aid: Sit or lie down, drink water, and rest."}
+{"prompt": "Symptom: My kid is facing i burnt my hand", "completion": "First Aid: Cool the burn under running water, cover loosely with a clean cloth, and seek emergency medical help."}
+{"prompt": "Symptom: My child is experiencing My child has i can't breathe properly", "completion": "First Aid: Seek urgent medical help, keep calm, and sit in a comfortable upright position."}
+{"prompt": "Symptom: Lately I feel i can't breathe properly", "completion": "First Aid: Sit upright, try to stay calm, and seek emergency medical help immediately."}
+{"prompt": "Symptom: Feeling i cut my finger", "completion": "First Aid: Rinse the cut with clean water, apply antiseptic cream, and cover lightly."}
+{"prompt": "Symptom: Feeling i cut my finger", "completion": "First Aid: Wash gently with water, put some antiseptic, and use a clean bandage."}
+{"prompt": "Symptom: my child\u2019s kid has a tummy child\u2019s ache is bothering me", "completion": "First Aid: Rest and give small sips of water; avoid spicy or heavy food."}
+{"prompt": "Symptom: I got i burnt my child\u2019s hand", "completion": "First Aid: Cool the burn under running water, cover loosely with a clean cloth, and seek emergency medical help."}
+{"prompt": "Symptom: I suffer from i cut my child\u2019s finger", "completion": "First Aid: Wash gently with water, put some antiseptic, and use a clean bandage."}
+{"prompt": "Symptom: My child has i cut my child\u2019s finger", "completion": "First Aid: Rinse the cut with clean water, apply antiseptic cream, and cover lightly."}
+{"prompt": "Symptom: I suffer from i burnt my hand", "completion": "First Aid: Cool the burn under running water, cover loosely with a clean cloth, and seek emergency medical help."}
+{"prompt": "Symptom: i have a headache problem", "completion": "First Aid: Rest in a quiet place, drink water, and avoid bright light."}
+{"prompt": "Symptom: Lately I feel i cut my finger", "completion": "First Aid: Wash gently with water, put some antiseptic, and use a clean bandage."}
+{"prompt": "Symptom: Lately I feel i cut my child\u2019s finger", "completion": "First Aid: Clean the wound with water, apply antiseptic, and cover with a bandage."}
+{"prompt": "Symptom: Feeling my kid has a tummy ache", "completion": "First Aid: Offer clear fluids, let the child rest, and avoid heavy meals."}
+{"prompt": "Symptom: My child has i burnt my hand", "completion": "First Aid: Cool the burn under running water, cover loosely with a clean cloth, and seek emergency medical help."}
+{"prompt": "Symptom: My kid is facing i feel dizzy", "completion": "First Aid: Sit or lie down, drink water, and rest."}
+{"prompt": "Symptom: My child is experiencing I suffer from i have a headache", "completion": "First Aid: Lie down in a calm room, keep yourself hydrated, and relax."}
+{"prompt": "Symptom: i have a headache problem", "completion": "First Aid: Lie down in a calm room, keep yourself hydrated, and relax."}
+{"prompt": "Symptom: Feeling i can't breathe properly", "completion": "First Aid: Call emergency services right away, sit upright, and remain calm."}
+{"prompt": "Symptom: Having issues with i can't breathe properly", "completion": "First Aid: Seek urgent medical help, keep calm, and sit in a comfortable upright position."}
+{"prompt": "Symptom: Having issues with my child\u2019s child is choking", "completion": "First Aid: If the child cannot breathe, perform the Heimlich maneuver and call emergency services."}
+{"prompt": "Symptom: Feeling i cut my child\u2019s finger", "completion": "First Aid: Rinse the cut with clean water, apply antiseptic cream, and cover lightly."}
+{"prompt": "Symptom: i burnt my hand is bothering me", "completion": "First Aid: Place the burn under cool water for several minutes, cover with a clean cloth, and get medical help."}
+{"prompt": "Symptom: Feeling my child\u2019s child is choking", "completion": "First Aid: Encourage coughing first; if unsuccessful, try abdominal thrusts and seek help."}
+{"prompt": "Symptom: i cut my child\u2019s finger problem", "completion": "First Aid: Rinse the cut with clean water, apply antiseptic cream, and cover lightly."}
+{"prompt": "Symptom: Having issues with i burnt my child\u2019s hand", "completion": "First Aid: Place the burn under cool water for several minutes, cover with a clean cloth, and get medical help."}
+{"prompt": "Symptom: Having issues with my child\u2019s child is choking", "completion": "First Aid: Encourage coughing first; if unsuccessful, try abdominal thrusts and seek help."}
+{"prompt": "Symptom: My child is experiencing I got i can't breathe properly", "completion": "First Aid: Seek urgent medical help, keep calm, and sit in a comfortable upright position."}
+{"prompt": "Symptom: My child is experiencing my child\u2019s kid has a tummy child\u2019s ache", "completion": "First Aid: Rest and give small sips of water; avoid spicy or heavy food."}
+{"prompt": "Symptom: My child is experiencing i feel dizzy is bothering me", "completion": "First Aid: Sit down immediately, relax, and drink fluids."}
+{"prompt": "Symptom: I got my child is choking", "completion": "First Aid: Encourage coughing first; if unsuccessful, try abdominal thrusts and seek help."}
+{"prompt": "Symptom: Lately I feel i feel dizzy", "completion": "First Aid: Sit down immediately, relax, and drink fluids."}
+{"prompt": "Symptom: i cut my finger problem", "completion": "First Aid: Wash gently with water, put some antiseptic, and use a clean bandage."}
+{"prompt": "Symptom: I got i feel dizzy", "completion": "First Aid: Rest in a safe position and sip water slowly."}
+{"prompt": "Symptom: i cut my child\u2019s finger problem", "completion": "First Aid: Wash gently with water, put some antiseptic, and use a clean bandage."}
+{"prompt": "Symptom: i can't breathe properly problem", "completion": "First Aid: Sit upright, try to stay calm, and seek emergency medical help immediately."}
+{"prompt": "Symptom: i have a headache problem", "completion": "First Aid: Lie down in a calm room, keep yourself hydrated, and relax."}
+{"prompt": "Symptom: I got i can't breathe properly", "completion": "First Aid: Call emergency services right away, sit upright, and remain calm."}
+{"prompt": "Symptom: Lately I feel i feel dizzy", "completion": "First Aid: Sit or lie down, drink water, and rest."}
+{"prompt": "Symptom: I got i cut my child\u2019s finger", "completion": "First Aid: Clean the wound with water, apply antiseptic, and cover with a bandage."}
+{"prompt": "Symptom: My child is experiencing i burnt my child\u2019s hand", "completion": "First Aid: Place the burn under cool water for several minutes, cover with a clean cloth, and get medical help."}
+{"prompt": "Symptom: I suffer from i burnt my child\u2019s hand", "completion": "First Aid: Place the burn under cool water for several minutes, cover with a clean cloth, and get medical help."}
+{"prompt": "Symptom: I got my child is choking", "completion": "First Aid: If the child cannot breathe, perform the Heimlich maneuver and call emergency services."}
+{"prompt": "Symptom: My child has i feel dizzy", "completion": "First Aid: Sit down immediately, relax, and drink fluids."}
+{"prompt": "Symptom: My kid is facing i burnt my child\u2019s hand", "completion": "First Aid: Cool the burn under running water, cover loosely with a clean cloth, and seek emergency medical help."}
+{"prompt": "Symptom: I got my child is choking", "completion": "First Aid: If the child cannot breathe, perform the Heimlich maneuver and call emergency services."}
+{"prompt": "Symptom: My child is experiencing Feeling i can't breathe properly", "completion": "First Aid: Sit upright, try to stay calm, and seek emergency medical help immediately."}
+{"prompt": "Symptom: Feeling my child is choking", "completion": "First Aid: If the child cannot breathe, perform the Heimlich maneuver and call emergency services."}
+{"prompt": "Symptom: My child is experiencing my child\u2019s kid has a tummy child\u2019s ache", "completion": "First Aid: Offer clear fluids, let the child rest, and avoid heavy meals."}
+{"prompt": "Symptom: My child is experiencing Having issues with i have vomiting and stomach pain", "completion": "First Aid: Sip water slowly, rest, and eat light food."}
+{"prompt": "Symptom: My child has i feel dizzy", "completion": "First Aid: Rest in a safe position and sip water slowly."}
+{"prompt": "Symptom: I suffer from my child has a nosebleed", "completion": "First Aid: Apply gentle pressure to the nose while sitting and leaning forward."}
+{"prompt": "Symptom: i burnt my child\u2019s hand is bothering me", "completion": "First Aid: Place the burn under cool water for several minutes, cover with a clean cloth, and get medical help."}
+{"prompt": "Symptom: Lately I feel my child\u2019s kid has a tummy child\u2019s ache", "completion": "First Aid: Offer clear fluids, let the child rest, and avoid heavy meals."}
+{"prompt": "Symptom: My child is experiencing Feeling i feel dizzy", "completion": "First Aid: Rest in a safe position and sip water slowly."}
+{"prompt": "Symptom: My kid is facing my child\u2019s kid has a tummy child\u2019s ache", "completion": "First Aid: Offer clear fluids, let the child rest, and avoid heavy meals."}
+{"prompt": "Symptom: i cut my finger is bothering me", "completion": "First Aid: Wash gently with water, put some antiseptic, and use a clean bandage."}
+{"prompt": "Symptom: My kid is facing i feel dizzy", "completion": "First Aid: Sit or lie down, drink water, and rest."}
+{"prompt": "Symptom: I got i have a headache", "completion": "First Aid: Rest in a quiet place, drink water, and avoid bright light."}
+{"prompt": "Symptom: Lately I feel my kid has a tummy ache", "completion": "First Aid: Rest and give small sips of water; avoid spicy or heavy food."}
+{"prompt": "Symptom: Feeling i cut my finger", "completion": "First Aid: Rinse the cut with clean water, apply antiseptic cream, and cover lightly."}
+{"prompt": "Symptom: My child has my child has a nosebleed", "completion": "First Aid: Keep the child sitting upright, tilt head slightly forward, and pinch the nose."}
+{"prompt": "Symptom: My child is experiencing I suffer from i can't breathe properly", "completion": "First Aid: Sit upright, try to stay calm, and seek emergency medical help immediately."}
+{"prompt": "Symptom: I suffer from my child\u2019s child is choking", "completion": "First Aid: Encourage coughing first; if unsuccessful, try abdominal thrusts and seek help."}
+{"prompt": "Symptom: my child is choking problem", "completion": "First Aid: If the child cannot breathe, perform the Heimlich maneuver and call emergency services."}
+{"prompt": "Symptom: My kid is facing i cut my child\u2019s finger", "completion": "First Aid: Wash gently with water, put some antiseptic, and use a clean bandage."}
+{"prompt": "Symptom: I am experiencing i have a headache", "completion": "First Aid: Take rest, sip some water, and avoid noise and screens."}
+{"prompt": "Symptom: I suffer from my child is choking", "completion": "First Aid: Encourage coughing first; if unsuccessful, try abdominal thrusts and seek help."}
+{"prompt": "Symptom: My child is experiencing Feeling i can't breathe properly", "completion": "First Aid: Sit upright, try to stay calm, and seek emergency medical help immediately."}
+{"prompt": "Symptom: Having issues with i feel dizzy", "completion": "First Aid: Sit down immediately, relax, and drink fluids."}
+{"prompt": "Symptom: I suffer from i have a headache", "completion": "First Aid: Rest in a quiet place, drink water, and avoid bright light."}
+{"prompt": "Symptom: My child has i cut my finger", "completion": "First Aid: Rinse the cut with clean water, apply antiseptic cream, and cover lightly."}
+{"prompt": "Symptom: I am experiencing my child has a nosebleed", "completion": "First Aid: Sit upright, lean forward, and pinch the nose for 10 minutes."}
+{"prompt": "Symptom: Feeling i cut my finger", "completion": "First Aid: Wash gently with water, put some antiseptic, and use a clean bandage."}
+{"prompt": "Symptom: I am experiencing i feel dizzy", "completion": "First Aid: Sit down immediately, relax, and drink fluids."}
+{"prompt": "Symptom: Feeling my child is choking", "completion": "First Aid: If the child cannot breathe, perform the Heimlich maneuver and call emergency services."}
+{"prompt": "Symptom: i have a headache is bothering me", "completion": "First Aid: Rest in a quiet place, drink water, and avoid bright light."}
+{"prompt": "Symptom: My child is experiencing I got i have a headache", "completion": "First Aid: Take rest, sip some water, and avoid noise and screens."}
+{"prompt": "Symptom: my child is choking is bothering me", "completion": "First Aid: Encourage coughing first; if unsuccessful, try abdominal thrusts and seek help."}
+{"prompt": "Symptom: my kid has a tummy ache is bothering me", "completion": "First Aid: Rest and give small sips of water; avoid spicy or heavy food."}
+{"prompt": "Symptom: My kid is facing i burnt my hand", "completion": "First Aid: Run cool water over the burn, do not apply ointments, and seek emergency help."}
+{"prompt": "Symptom: Feeling i feel dizzy", "completion": "First Aid: Rest in a safe position and sip water slowly."}
+{"prompt": "Symptom: My child is experiencing i have a headache", "completion": "First Aid: Rest in a quiet place, drink water, and avoid bright light."}
+{"prompt": "Symptom: Feeling my kid has a tummy ache", "completion": "First Aid: Encourage rest, give light meals, and plenty of fluids."}
+{"prompt": "Symptom: I got i feel dizzy", "completion": "First Aid: Sit down immediately, relax, and drink fluids."}
+{"prompt": "Symptom: My child is experiencing I got i feel dizzy", "completion": "First Aid: Rest in a safe position and sip water slowly."}
+{"prompt": "Symptom: i burnt my hand is bothering me", "completion": "First Aid: Cool the burn under running water, cover loosely with a clean cloth, and seek emergency medical help."}
+{"prompt": "Symptom: My child is experiencing i can't breathe properly is bothering me", "completion": "First Aid: Call emergency services right away, sit upright, and remain calm."}
+{"prompt": "Symptom: My kid is facing i feel dizzy", "completion": "First Aid: Sit down immediately, relax, and drink fluids."}
+{"prompt": "Symptom: my child is choking is bothering me", "completion": "First Aid: Encourage coughing, and if needed, perform abdominal thrusts (Heimlich maneuver)."}
+{"prompt": "Symptom: I suffer from i burnt my hand", "completion": "First Aid: Place the burn under cool water for several minutes, cover with a clean cloth, and get medical help."}
+{"prompt": "Symptom: My child is experiencing My child has i have vomiting and stomach pain", "completion": "First Aid: Drink small amounts of clear fluids, rest, and avoid solid food for a while."}
+{"prompt": "Symptom: I suffer from my child has a nosebleed", "completion": "First Aid: Apply gentle pressure to the nose while sitting and leaning forward."}
+{"prompt": "Symptom: Lately I feel i have vomiting and stomach pain", "completion": "First Aid: Drink small amounts of clear fluids, rest, and avoid solid food for a while."}
+{"prompt": "Symptom: I suffer from my child\u2019s child is choking", "completion": "First Aid: Encourage coughing first; if unsuccessful, try abdominal thrusts and seek help."}
+{"prompt": "Symptom: My child is experiencing I suffer from i have a headache", "completion": "First Aid: Rest in a quiet place, drink water, and avoid bright light."}
+{"prompt": "Symptom: Having issues with i have vomiting and stomach pain", "completion": "First Aid: Drink small amounts of clear fluids, rest, and avoid solid food for a while."}
+{"prompt": "Symptom: My kid is facing i have vomiting and stomach pain", "completion": "First Aid: Drink small amounts of clear fluids, rest, and avoid solid food for a while."}
+{"prompt": "Symptom: My child has my child\u2019s child is choking", "completion": "First Aid: Encourage coughing, and if needed, perform abdominal thrusts (Heimlich maneuver)."}
+{"prompt": "Symptom: My child has my child has a nosebleed", "completion": "First Aid: Keep the child sitting upright, tilt head slightly forward, and pinch the nose."}
+{"prompt": "Symptom: Lately I feel my kid has a tummy ache", "completion": "First Aid: Rest and give small sips of water; avoid spicy or heavy food."}
+{"prompt": "Symptom: My child is experiencing i have a headache is bothering me", "completion": "First Aid: Rest in a quiet place, drink water, and avoid bright light."}
+{"prompt": "Symptom: My child is experiencing My child has i feel dizzy", "completion": "First Aid: Rest in a safe position and sip water slowly."}
+{"prompt": "Symptom: Feeling my child is choking", "completion": "First Aid: Encourage coughing, and if needed, perform abdominal thrusts (Heimlich maneuver)."}
+{"prompt": "Symptom: Having issues with i burnt my child\u2019s hand", "completion": "First Aid: Run cool water over the burn, do not apply ointments, and seek emergency help."}
+{"prompt": "Symptom: I suffer from my child\u2019s child is choking", "completion": "First Aid: Encourage coughing first; if unsuccessful, try abdominal thrusts and seek help."}
+{"prompt": "Symptom: My kid is facing i have vomiting and stomach pain", "completion": "First Aid: Sip water slowly, rest, and eat light food."}
+{"prompt": "Symptom: I suffer from i have a headache", "completion": "First Aid: Lie down in a calm room, keep yourself hydrated, and relax."}
+{"prompt": "Symptom: My kid is facing my child\u2019s child is choking", "completion": "First Aid: Encourage coughing, and if needed, perform abdominal thrusts (Heimlich maneuver)."}
+{"prompt": "Symptom: I got i cut my finger", "completion": "First Aid: Clean the wound with water, apply antiseptic, and cover with a bandage."}
+{"prompt": "Symptom: I got my child\u2019s child is choking", "completion": "First Aid: Encourage coughing first; if unsuccessful, try abdominal thrusts and seek help."}
+{"prompt": "Symptom: I suffer from i have a headache", "completion": "First Aid: Rest in a quiet place, drink water, and avoid bright light."}
+{"prompt": "Symptom: my kid has a tummy ache is bothering me", "completion": "First Aid: Rest and give small sips of water; avoid spicy or heavy food."}
+{"prompt": "Symptom: I got my child is choking", "completion": "First Aid: If the child cannot breathe, perform the Heimlich maneuver and call emergency services."}
+{"prompt": "Symptom: My child has my child\u2019s kid has a tummy child\u2019s ache", "completion": "First Aid: Offer clear fluids, let the child rest, and avoid heavy meals."}
+{"prompt": "Symptom: I got my child\u2019s kid has a tummy child\u2019s ache", "completion": "First Aid: Encourage rest, give light meals, and plenty of fluids."}
+{"prompt": "Symptom: I am experiencing my child is choking", "completion": "First Aid: Encourage coughing, and if needed, perform abdominal thrusts (Heimlich maneuver)."}
+{"prompt": "Symptom: My kid is facing my kid has a tummy ache", "completion": "First Aid: Offer clear fluids, let the child rest, and avoid heavy meals."}
+{"prompt": "Symptom: Having issues with i burnt my child\u2019s hand", "completion": "First Aid: Cool the burn under running water, cover loosely with a clean cloth, and seek emergency medical help."}
+{"prompt": "Symptom: My child is experiencing i can't breathe properly is bothering me", "completion": "First Aid: Sit upright, try to stay calm, and seek emergency medical help immediately."}
+{"prompt": "Symptom: Feeling my child\u2019s child is choking", "completion": "First Aid: Encourage coughing first; if unsuccessful, try abdominal thrusts and seek help."}
+{"prompt": "Symptom: I suffer from my child\u2019s child has a nosebleed", "completion": "First Aid: Sit upright, lean forward, and pinch the nose for 10 minutes."}
+{"prompt": "Symptom: My child is experiencing i feel dizzy", "completion": "First Aid: Rest in a safe position and sip water slowly."}
+{"prompt": "Symptom: My kid is facing i cut my finger", "completion": "First Aid: Rinse the cut with clean water, apply antiseptic cream, and cover lightly."}
+{"prompt": "Symptom: I am experiencing i burnt my hand", "completion": "First Aid: Place the burn under cool water for several minutes, cover with a clean cloth, and get medical help."}
+{"prompt": "Symptom: My child has i burnt my child\u2019s hand", "completion": "First Aid: Cool the burn under running water, cover loosely with a clean cloth, and seek emergency medical help."}
+{"prompt": "Symptom: My child has i burnt my child\u2019s hand", "completion": "First Aid: Place the burn under cool water for several minutes, cover with a clean cloth, and get medical help."}
+{"prompt": "Symptom: My child has my child\u2019s child has a nosebleed", "completion": "First Aid: Keep the child sitting upright, tilt head slightly forward, and pinch the nose."}
+{"prompt": "Symptom: I got i burnt my child\u2019s hand", "completion": "First Aid: Cool the burn under running water, cover loosely with a clean cloth, and seek emergency medical help."}
+{"prompt": "Symptom: Lately I feel i cut my finger", "completion": "First Aid: Rinse the cut with clean water, apply antiseptic cream, and cover lightly."}
+{"prompt": "Symptom: My child is experiencing I got i can't breathe properly", "completion": "First Aid: Sit upright, try to stay calm, and seek emergency medical help immediately."}
+{"prompt": "Symptom: I suffer from i cut my child\u2019s finger", "completion": "First Aid: Wash gently with water, put some antiseptic, and use a clean bandage."}
+{"prompt": "Symptom: My child is experiencing I got i can't breathe properly", "completion": "First Aid: Call emergency services right away, sit upright, and remain calm."}
+{"prompt": "Symptom: I got my child\u2019s child has a nosebleed", "completion": "First Aid: Apply gentle pressure to the nose while sitting and leaning forward."}
+{"prompt": "Symptom: I got i cut my child\u2019s finger", "completion": "First Aid: Clean the wound with water, apply antiseptic, and cover with a bandage."}
+{"prompt": "Symptom: I suffer from my child is choking", "completion": "First Aid: Encourage coughing first; if unsuccessful, try abdominal thrusts and seek help."}
+{"prompt": "Symptom: I got i cut my finger", "completion": "First Aid: Clean the wound with water, apply antiseptic, and cover with a bandage."}
+{"prompt": "Symptom: My child is experiencing I suffer from i have a headache", "completion": "First Aid: Take rest, sip some water, and avoid noise and screens."}
+{"prompt": "Symptom: I got my child has a nosebleed", "completion": "First Aid: Keep the child sitting upright, tilt head slightly forward, and pinch the nose."}
+{"prompt": "Symptom: My kid is facing i cut my child\u2019s finger", "completion": "First Aid: Wash gently with water, put some antiseptic, and use a clean bandage."}
+{"prompt": "Symptom: My child has i have a headache", "completion": "First Aid: Take rest, sip some water, and avoid noise and screens."}
+{"prompt": "Symptom: my child has a nosebleed is bothering me", "completion": "First Aid: Keep the child sitting upright, tilt head slightly forward, and pinch the nose."}
+{"prompt": "Symptom: My kid is facing my kid has a tummy ache", "completion": "First Aid: Offer clear fluids, let the child rest, and avoid heavy meals."}
+{"prompt": "Symptom: My kid is facing my child has a nosebleed", "completion": "First Aid: Apply gentle pressure to the nose while sitting and leaning forward."}
+{"prompt": "Symptom: Feeling my child\u2019s child is choking", "completion": "First Aid: Encourage coughing, and if needed, perform abdominal thrusts (Heimlich maneuver)."}
+{"prompt": "Symptom: I got i have a headache", "completion": "First Aid: Rest in a quiet place, drink water, and avoid bright light."}
+{"prompt": "Symptom: I am experiencing i have vomiting and stomach pain", "completion": "First Aid: Take rest, sip oral rehydration solution, and avoid oily food."}
+{"prompt": "Symptom: I suffer from my child has a nosebleed", "completion": "First Aid: Keep the child sitting upright, tilt head slightly forward, and pinch the nose."}
+{"prompt": "Symptom: I am experiencing i can't breathe properly", "completion": "First Aid: Sit upright, try to stay calm, and seek emergency medical help immediately."}
+{"prompt": "Symptom: i have vomiting and stomach pain is bothering me", "completion": "First Aid: Drink small amounts of clear fluids, rest, and avoid solid food for a while."}
+{"prompt": "Symptom: Having issues with my child is choking", "completion": "First Aid: If the child cannot breathe, perform the Heimlich maneuver and call emergency services."}
+{"prompt": "Symptom: i feel dizzy problem", "completion": "First Aid: Sit down immediately, relax, and drink fluids."}
+{"prompt": "Symptom: I got i can't breathe properly", "completion": "First Aid: Call emergency services right away, sit upright, and remain calm."}
+{"prompt": "Symptom: My child has i cut my finger", "completion": "First Aid: Rinse the cut with clean water, apply antiseptic cream, and cover lightly."}
+{"prompt": "Symptom: I got my child\u2019s kid has a tummy child\u2019s ache", "completion": "First Aid: Encourage rest, give light meals, and plenty of fluids."}
+{"prompt": "Symptom: I got my child\u2019s child is choking", "completion": "First Aid: If the child cannot breathe, perform the Heimlich maneuver and call emergency services."}
+{"prompt": "Symptom: Feeling i burnt my hand", "completion": "First Aid: Place the burn under cool water for several minutes, cover with a clean cloth, and get medical help."}
+{"prompt": "Symptom: My child is experiencing i can't breathe properly is bothering me", "completion": "First Aid: Seek urgent medical help, keep calm, and sit in a comfortable upright position."}
+{"prompt": "Symptom: Lately I feel i cut my child\u2019s finger", "completion": "First Aid: Clean the wound with water, apply antiseptic, and cover with a bandage."}
+{"prompt": "Symptom: My child is experiencing i can't breathe properly is bothering me", "completion": "First Aid: Sit upright, try to stay calm, and seek emergency medical help immediately."}
+{"prompt": "Symptom: Having issues with i burnt my child\u2019s hand", "completion": "First Aid: Place the burn under cool water for several minutes, cover with a clean cloth, and get medical help."}
+{"prompt": "Symptom: My child is experiencing My kid is facing i have vomiting and stomach pain", "completion": "First Aid: Take rest, sip oral rehydration solution, and avoid oily food."}
+{"prompt": "Symptom: I got my child\u2019s child is choking", "completion": "First Aid: If the child cannot breathe, perform the Heimlich maneuver and call emergency services."}
+{"prompt": "Symptom: Having issues with i burnt my hand", "completion": "First Aid: Cool the burn under running water, cover loosely with a clean cloth, and seek emergency medical help."}
+{"prompt": "Symptom: My child is experiencing i have a headache problem", "completion": "First Aid: Take rest, sip some water, and avoid noise and screens."}
+{"prompt": "Symptom: my child\u2019s child is choking is bothering me", "completion": "First Aid: Encourage coughing, and if needed, perform abdominal thrusts (Heimlich maneuver)."}
+{"prompt": "Symptom: My child is experiencing Lately I feel i have vomiting and stomach pain", "completion": "First Aid: Sip water slowly, rest, and eat light food."}
+{"prompt": "Symptom: I got my child\u2019s kid has a tummy child\u2019s ache", "completion": "First Aid: Rest and give small sips of water; avoid spicy or heavy food."}
+{"prompt": "Symptom: I got my child has a nosebleed", "completion": "First Aid: Keep the child sitting upright, tilt head slightly forward, and pinch the nose."}
+{"prompt": "Symptom: Lately I feel my child is choking", "completion": "First Aid: Encourage coughing, and if needed, perform abdominal thrusts (Heimlich maneuver)."}
+{"prompt": "Symptom: I suffer from i have vomiting and stomach pain", "completion": "First Aid: Sip water slowly, rest, and eat light food."}
+{"prompt": "Symptom: Feeling my child\u2019s child has a nosebleed", "completion": "First Aid: Sit upright, lean forward, and pinch the nose for 10 minutes."}
+{"prompt": "Symptom: My child is experiencing i cut my child\u2019s finger", "completion": "First Aid: Rinse the cut with clean water, apply antiseptic cream, and cover lightly."}
+{"prompt": "Symptom: i burnt my child\u2019s hand is bothering me", "completion": "First Aid: Cool the burn under running water, cover loosely with a clean cloth, and seek emergency medical help."}
+{"prompt": "Symptom: I am experiencing i can't breathe properly", "completion": "First Aid: Sit upright, try to stay calm, and seek emergency medical help immediately."}
+{"prompt": "Symptom: Feeling i have a headache", "completion": "First Aid: Lie down in a calm room, keep yourself hydrated, and relax."}
+{"prompt": "Symptom: Feeling i can't breathe properly", "completion": "First Aid: Sit upright, try to stay calm, and seek emergency medical help immediately."}
+{"prompt": "Symptom: Lately I feel my child has a nosebleed", "completion": "First Aid: Keep the child sitting upright, tilt head slightly forward, and pinch the nose."}
+{"prompt": "Symptom: Lately I feel my child\u2019s kid has a tummy child\u2019s ache", "completion": "First Aid: Offer clear fluids, let the child rest, and avoid heavy meals."}
+{"prompt": "Symptom: My kid is facing my child\u2019s child has a nosebleed", "completion": "First Aid: Keep the child sitting upright, tilt head slightly forward, and pinch the nose."}
+{"prompt": "Symptom: I got i can't breathe properly", "completion": "First Aid: Seek urgent medical help, keep calm, and sit in a comfortable upright position."}
+{"prompt": "Symptom: Lately I feel i feel dizzy", "completion": "First Aid: Sit or lie down, drink water, and rest."}
+{"prompt": "Symptom: I am experiencing my child is choking", "completion": "First Aid: Encourage coughing, and if needed, perform abdominal thrusts (Heimlich maneuver)."}
+{"prompt": "Symptom: My kid is facing i can't breathe properly", "completion": "First Aid: Call emergency services right away, sit upright, and remain calm."}
+{"prompt": "Symptom: my child\u2019s child is choking problem", "completion": "First Aid: Encourage coughing, and if needed, perform abdominal thrusts (Heimlich maneuver)."}
+{"prompt": "Symptom: I suffer from i have a headache", "completion": "First Aid: Take rest, sip some water, and avoid noise and screens."}
+{"prompt": "Symptom: Having issues with my child has a nosebleed", "completion": "First Aid: Apply gentle pressure to the nose while sitting and leaning forward."}
+{"prompt": "Symptom: i feel dizzy problem", "completion": "First Aid: Rest in a safe position and sip water slowly."}
+{"prompt": "Symptom: My child is experiencing Feeling i can't breathe properly", "completion": "First Aid: Seek urgent medical help, keep calm, and sit in a comfortable upright position."}
+{"prompt": "Symptom: My kid is facing i burnt my hand", "completion": "First Aid: Cool the burn under running water, cover loosely with a clean cloth, and seek emergency medical help."}
+{"prompt": "Symptom: my child is choking problem", "completion": "First Aid: Encourage coughing first; if unsuccessful, try abdominal thrusts and seek help."}
+{"prompt": "Symptom: My child is experiencing I suffer from i have vomiting and stomach pain", "completion": "First Aid: Sip water slowly, rest, and eat light food."}
+{"prompt": "Symptom: My child is experiencing Feeling i feel dizzy", "completion": "First Aid: Rest in a safe position and sip water slowly."}
+{"prompt": "Symptom: My child is experiencing My child has i have a headache", "completion": "First Aid: Take rest, sip some water, and avoid noise and screens."}
+{"prompt": "Symptom: Having issues with my child\u2019s kid has a tummy child\u2019s ache", "completion": "First Aid: Encourage rest, give light meals, and plenty of fluids."}
+{"prompt": "Symptom: My child is experiencing i feel dizzy problem", "completion": "First Aid: Rest in a safe position and sip water slowly."}
+{"prompt": "Symptom: my child\u2019s child has a nosebleed is bothering me", "completion": "First Aid: Sit upright, lean forward, and pinch the nose for 10 minutes."}
+{"prompt": "Symptom: Having issues with my child is choking", "completion": "First Aid: Encourage coughing first; if unsuccessful, try abdominal thrusts and seek help."}
+{"prompt": "Symptom: Feeling i cut my finger", "completion": "First Aid: Rinse the cut with clean water, apply antiseptic cream, and cover lightly."}
+{"prompt": "Symptom: my kid has a tummy ache is bothering me", "completion": "First Aid: Rest and give small sips of water; avoid spicy or heavy food."}
+{"prompt": "Symptom: i burnt my child\u2019s hand problem", "completion": "First Aid: Place the burn under cool water for several minutes, cover with a clean cloth, and get medical help."}
+{"prompt": "Symptom: Having issues with i feel dizzy", "completion": "First Aid: Sit or lie down, drink water, and rest."}
+{"prompt": "Symptom: I got i can't breathe properly", "completion": "First Aid: Call emergency services right away, sit upright, and remain calm."}
+{"prompt": "Symptom: my child is choking is bothering me", "completion": "First Aid: If the child cannot breathe, perform the Heimlich maneuver and call emergency services."}
+{"prompt": "Symptom: My kid is facing my kid has a tummy ache", "completion": "First Aid: Encourage rest, give light meals, and plenty of fluids."}
+{"prompt": "Symptom: I got my kid has a tummy ache", "completion": "First Aid: Encourage rest, give light meals, and plenty of fluids."}
+{"prompt": "Symptom: I got my child\u2019s kid has a tummy child\u2019s ache", "completion": "First Aid: Rest and give small sips of water; avoid spicy or heavy food."}
+{"prompt": "Symptom: My child is experiencing i have vomiting and stomach pain is bothering me", "completion": "First Aid: Take rest, sip oral rehydration solution, and avoid oily food."}
+{"prompt": "Symptom: My child is experiencing I suffer from i feel dizzy", "completion": "First Aid: Sit or lie down, drink water, and rest."}
+{"prompt": "Symptom: i cut my finger is bothering me", "completion": "First Aid: Clean the wound with water, apply antiseptic, and cover with a bandage."}
+{"prompt": "Symptom: I am experiencing i feel dizzy", "completion": "First Aid: Rest in a safe position and sip water slowly."}
+{"prompt": "Symptom: Having issues with i burnt my hand", "completion": "First Aid: Cool the burn under running water, cover loosely with a clean cloth, and seek emergency medical help."}
+{"prompt": "Symptom: my kid has a tummy ache is bothering me", "completion": "First Aid: Encourage rest, give light meals, and plenty of fluids."}
+{"prompt": "Symptom: My child has i feel dizzy", "completion": "First Aid: Sit down immediately, relax, and drink fluids."}
+{"prompt": "Symptom: My child is experiencing Lately I feel i feel dizzy", "completion": "First Aid: Sit down immediately, relax, and drink fluids."}
+{"prompt": "Symptom: My child has my child\u2019s child has a nosebleed", "completion": "First Aid: Apply gentle pressure to the nose while sitting and leaning forward."}
+{"prompt": "Symptom: my child\u2019s child has a nosebleed problem", "completion": "First Aid: Sit upright, lean forward, and pinch the nose for 10 minutes."}
+{"prompt": "Symptom: My child has i can't breathe properly", "completion": "First Aid: Sit upright, try to stay calm, and seek emergency medical help immediately."}
+{"prompt": "Symptom: Feeling i can't breathe properly", "completion": "First Aid: Sit upright, try to stay calm, and seek emergency medical help immediately."}
+{"prompt": "Symptom: My child is experiencing i can't breathe properly is bothering me", "completion": "First Aid: Sit upright, try to stay calm, and seek emergency medical help immediately."}
+{"prompt": "Symptom: My child is experiencing i can't breathe properly is bothering me", "completion": "First Aid: Sit upright, try to stay calm, and seek emergency medical help immediately."}
+{"prompt": "Symptom: My child is experiencing My child has i have a headache", "completion": "First Aid: Lie down in a calm room, keep yourself hydrated, and relax."}
+{"prompt": "Symptom: My child is experiencing Lately I feel i have vomiting and stomach pain", "completion": "First Aid: Drink small amounts of clear fluids, rest, and avoid solid food for a while."}
+{"prompt": "Symptom: My child has i have vomiting and stomach pain", "completion": "First Aid: Take rest, sip oral rehydration solution, and avoid oily food."}
+{"prompt": "Symptom: My child is experiencing i have vomiting and stomach pain is bothering me", "completion": "First Aid: Drink small amounts of clear fluids, rest, and avoid solid food for a while."}
+{"prompt": "Symptom: My child is experiencing My kid is facing i can't breathe properly", "completion": "First Aid: Call emergency services right away, sit upright, and remain calm."}
+{"prompt": "Symptom: My child has my kid has a tummy ache", "completion": "First Aid: Offer clear fluids, let the child rest, and avoid heavy meals."}
+{"prompt": "Symptom: Lately I feel my child\u2019s kid has a tummy child\u2019s ache", "completion": "First Aid: Encourage rest, give light meals, and plenty of fluids."}
+{"prompt": "Symptom: Lately I feel my child is choking", "completion": "First Aid: If the child cannot breathe, perform the Heimlich maneuver and call emergency services."}
+{"prompt": "Symptom: Lately I feel i can't breathe properly", "completion": "First Aid: Seek urgent medical help, keep calm, and sit in a comfortable upright position."}
+{"prompt": "Symptom: My child has my child has a nosebleed", "completion": "First Aid: Sit upright, lean forward, and pinch the nose for 10 minutes."}
+{"prompt": "Symptom: My child is experiencing i can't breathe properly problem", "completion": "First Aid: Call emergency services right away, sit upright, and remain calm."}
+{"prompt": "Symptom: I am experiencing my kid has a tummy ache", "completion": "First Aid: Offer clear fluids, let the child rest, and avoid heavy meals."}
+{"prompt": "Symptom: I suffer from my child has a nosebleed", "completion": "First Aid: Apply gentle pressure to the nose while sitting and leaning forward."}
+{"prompt": "Symptom: I got my child\u2019s child has a nosebleed", "completion": "First Aid: Keep the child sitting upright, tilt head slightly forward, and pinch the nose."}
+{"prompt": "Symptom: Feeling i have a headache", "completion": "First Aid: Rest in a quiet place, drink water, and avoid bright light."}
+{"prompt": "Symptom: My child has my child is choking", "completion": "First Aid: Encourage coughing first; if unsuccessful, try abdominal thrusts and seek help."}
+{"prompt": "Symptom: I got my child\u2019s child is choking", "completion": "First Aid: If the child cannot breathe, perform the Heimlich maneuver and call emergency services."}
+{"prompt": "Symptom: My child is experiencing My kid is facing i can't breathe properly", "completion": "First Aid: Seek urgent medical help, keep calm, and sit in a comfortable upright position."}
+{"prompt": "Symptom: I suffer from i burnt my hand", "completion": "First Aid: Place the burn under cool water for several minutes, cover with a clean cloth, and get medical help."}
+{"prompt": "Symptom: Having issues with my child has a nosebleed", "completion": "First Aid: Keep the child sitting upright, tilt head slightly forward, and pinch the nose."}
+{"prompt": "Symptom: My child is experiencing i burnt my child\u2019s hand", "completion": "First Aid: Place the burn under cool water for several minutes, cover with a clean cloth, and get medical help."}
+{"prompt": "Symptom: Feeling i burnt my child\u2019s hand", "completion": "First Aid: Run cool water over the burn, do not apply ointments, and seek emergency help."}
+{"prompt": "Symptom: Feeling i can't breathe properly", "completion": "First Aid: Sit upright, try to stay calm, and seek emergency medical help immediately."}
+{"prompt": "Symptom: My child is experiencing i have vomiting and stomach pain is bothering me", "completion": "First Aid: Sip water slowly, rest, and eat light food."}
+{"prompt": "Symptom: i feel dizzy problem", "completion": "First Aid: Rest in a safe position and sip water slowly."}
+{"prompt": "Symptom: My child has my child\u2019s kid has a tummy child\u2019s ache", "completion": "First Aid: Encourage rest, give light meals, and plenty of fluids."}
+{"prompt": "Symptom: My kid is facing i cut my finger", "completion": "First Aid: Wash gently with water, put some antiseptic, and use a clean bandage."}
+{"prompt": "Symptom: I suffer from my child\u2019s kid has a tummy child\u2019s ache", "completion": "First Aid: Encourage rest, give light meals, and plenty of fluids."}
+{"prompt": "Symptom: Lately I feel my child is choking", "completion": "First Aid: If the child cannot breathe, perform the Heimlich maneuver and call emergency services."}
+{"prompt": "Symptom: My child is experiencing Having issues with i have vomiting and stomach pain", "completion": "First Aid: Drink small amounts of clear fluids, rest, and avoid solid food for a while."}
+{"prompt": "Symptom: i cut my finger problem", "completion": "First Aid: Rinse the cut with clean water, apply antiseptic cream, and cover lightly."}
+{"prompt": "Symptom: i can't breathe properly is bothering me", "completion": "First Aid: Sit upright, try to stay calm, and seek emergency medical help immediately."}
+{"prompt": "Symptom: Having issues with i can't breathe properly", "completion": "First Aid: Seek urgent medical help, keep calm, and sit in a comfortable upright position."}
+{"prompt": "Symptom: Lately I feel my child\u2019s kid has a tummy child\u2019s ache", "completion": "First Aid: Encourage rest, give light meals, and plenty of fluids."}
+{"prompt": "Symptom: I got i burnt my hand", "completion": "First Aid: Cool the burn under running water, cover loosely with a clean cloth, and seek emergency medical help."}
+{"prompt": "Symptom: my child is choking is bothering me", "completion": "First Aid: If the child cannot breathe, perform the Heimlich maneuver and call emergency services."}
+{"prompt": "Symptom: My child has i feel dizzy", "completion": "First Aid: Sit down immediately, relax, and drink fluids."}
+{"prompt": "Symptom: Feeling my kid has a tummy ache", "completion": "First Aid: Offer clear fluids, let the child rest, and avoid heavy meals."}
+{"prompt": "Symptom: I got i cut my finger", "completion": "First Aid: Clean the wound with water, apply antiseptic, and cover with a bandage."}
+{"prompt": "Symptom: I suffer from i feel dizzy", "completion": "First Aid: Sit or lie down, drink water, and rest."}
+{"prompt": "Symptom: My kid is facing my child\u2019s kid has a tummy child\u2019s ache", "completion": "First Aid: Encourage rest, give light meals, and plenty of fluids."}
+{"prompt": "Symptom: My child is experiencing i feel dizzy problem", "completion": "First Aid: Sit down immediately, relax, and drink fluids."}
+{"prompt": "Symptom: My child is experiencing My child has i feel dizzy", "completion": "First Aid: Sit or lie down, drink water, and rest."}
+{"prompt": "Symptom: My child is experiencing my child\u2019s kid has a tummy child\u2019s ache", "completion": "First Aid: Rest and give small sips of water; avoid spicy or heavy food."}
+{"prompt": "Symptom: I suffer from my child has a nosebleed", "completion": "First Aid: Keep the child sitting upright, tilt head slightly forward, and pinch the nose."}
+{"prompt": "Symptom: My kid is facing i feel dizzy", "completion": "First Aid: Sit down immediately, relax, and drink fluids."}
+{"prompt": "Symptom: I am experiencing my child has a nosebleed", "completion": "First Aid: Keep the child sitting upright, tilt head slightly forward, and pinch the nose."}
+{"prompt": "Symptom: Feeling my child\u2019s kid has a tummy child\u2019s ache", "completion": "First Aid: Encourage rest, give light meals, and plenty of fluids."}
+{"prompt": "Symptom: Having issues with i cut my finger", "completion": "First Aid: Clean the wound with water, apply antiseptic, and cover with a bandage."}
+{"prompt": "Symptom: My child is experiencing i can't breathe properly", "completion": "First Aid: Seek urgent medical help, keep calm, and sit in a comfortable upright position."}
+{"prompt": "Symptom: My child is experiencing Feeling i have a headache", "completion": "First Aid: Lie down in a calm room, keep yourself hydrated, and relax."}
+{"prompt": "Symptom: my child has a nosebleed problem", "completion": "First Aid: Keep the child sitting upright, tilt head slightly forward, and pinch the nose."}
+{"prompt": "Symptom: i have a headache is bothering me", "completion": "First Aid: Rest in a quiet place, drink water, and avoid bright light."}
+{"prompt": "Symptom: Feeling my child has a nosebleed", "completion": "First Aid: Keep the child sitting upright, tilt head slightly forward, and pinch the nose."}
+{"prompt": "Symptom: i have a headache is bothering me", "completion": "First Aid: Rest in a quiet place, drink water, and avoid bright light."}
+{"prompt": "Symptom: Having issues with my child is choking", "completion": "First Aid: Encourage coughing, and if needed, perform abdominal thrusts (Heimlich maneuver)."}
+{"prompt": "Symptom: My child is experiencing I suffer from i have vomiting and stomach pain", "completion": "First Aid: Sip water slowly, rest, and eat light food."}
+{"prompt": "Symptom: i burnt my child\u2019s hand is bothering me", "completion": "First Aid: Place the burn under cool water for several minutes, cover with a clean cloth, and get medical help."}
+{"prompt": "Symptom: Feeling my child\u2019s kid has a tummy child\u2019s ache", "completion": "First Aid: Offer clear fluids, let the child rest, and avoid heavy meals."}
+{"prompt": "Symptom: My kid is facing i can't breathe properly", "completion": "First Aid: Call emergency services right away, sit upright, and remain calm."}
+{"prompt": "Symptom: My kid is facing my kid has a tummy ache", "completion": "First Aid: Encourage rest, give light meals, and plenty of fluids."}
+{"prompt": "Symptom: My child is experiencing I suffer from i can't breathe properly", "completion": "First Aid: Call emergency services right away, sit upright, and remain calm."}
+{"prompt": "Symptom: i can't breathe properly is bothering me", "completion": "First Aid: Call emergency services right away, sit upright, and remain calm."}
+{"prompt": "Symptom: i have vomiting and stomach pain problem", "completion": "First Aid: Take rest, sip oral rehydration solution, and avoid oily food."}
+{"prompt": "Symptom: My child is experiencing I got i feel dizzy", "completion": "First Aid: Sit or lie down, drink water, and rest."}
+{"prompt": "Symptom: My child has my child has a nosebleed", "completion": "First Aid: Apply gentle pressure to the nose while sitting and leaning forward."}
+{"prompt": "Symptom: I suffer from i feel dizzy", "completion": "First Aid: Sit down immediately, relax, and drink fluids."}
+{"prompt": "Symptom: My kid is facing i cut my child\u2019s finger", "completion": "First Aid: Wash gently with water, put some antiseptic, and use a clean bandage."}
+{"prompt": "Symptom: Having issues with i have vomiting and stomach pain", "completion": "First Aid: Drink small amounts of clear fluids, rest, and avoid solid food for a while."}
+{"prompt": "Symptom: Lately I feel i can't breathe properly", "completion": "First Aid: Sit upright, try to stay calm, and seek emergency medical help immediately."}
+{"prompt": "Symptom: I got i cut my child\u2019s finger", "completion": "First Aid: Wash gently with water, put some antiseptic, and use a clean bandage."}
+{"prompt": "Symptom: Having issues with i cut my finger", "completion": "First Aid: Wash gently with water, put some antiseptic, and use a clean bandage."}
+{"prompt": "Symptom: Lately I feel i cut my finger", "completion": "First Aid: Clean the wound with water, apply antiseptic, and cover with a bandage."}
+{"prompt": "Symptom: i cut my finger problem", "completion": "First Aid: Wash gently with water, put some antiseptic, and use a clean bandage."}
+{"prompt": "Symptom: Lately I feel my child\u2019s kid has a tummy child\u2019s ache", "completion": "First Aid: Rest and give small sips of water; avoid spicy or heavy food."}
+{"prompt": "Symptom: I got i have a headache", "completion": "First Aid: Take rest, sip some water, and avoid noise and screens."}
+{"prompt": "Symptom: Having issues with my kid has a tummy ache", "completion": "First Aid: Offer clear fluids, let the child rest, and avoid heavy meals."}
+{"prompt": "Symptom: My kid is facing i cut my child\u2019s finger", "completion": "First Aid: Wash gently with water, put some antiseptic, and use a clean bandage."}
+{"prompt": "Symptom: My child is experiencing Lately I feel i feel dizzy", "completion": "First Aid: Sit or lie down, drink water, and rest."}
+{"prompt": "Symptom: My child is experiencing i have a headache problem", "completion": "First Aid: Lie down in a calm room, keep yourself hydrated, and relax."}
+{"prompt": "Symptom: I suffer from my child is choking", "completion": "First Aid: Encourage coughing, and if needed, perform abdominal thrusts (Heimlich maneuver)."}
+{"prompt": "Symptom: i burnt my child\u2019s hand is bothering me", "completion": "First Aid: Place the burn under cool water for several minutes, cover with a clean cloth, and get medical help."}
+{"prompt": "Symptom: Having issues with my child\u2019s kid has a tummy child\u2019s ache", "completion": "First Aid: Encourage rest, give light meals, and plenty of fluids."}
+{"prompt": "Symptom: Lately I feel my kid has a tummy ache", "completion": "First Aid: Encourage rest, give light meals, and plenty of fluids."}
+{"prompt": "Symptom: I suffer from i can't breathe properly", "completion": "First Aid: Call emergency services right away, sit upright, and remain calm."}
+{"prompt": "Symptom: My child has i have vomiting and stomach pain", "completion": "First Aid: Drink small amounts of clear fluids, rest, and avoid solid food for a while."}
+{"prompt": "Symptom: i cut my child\u2019s finger is bothering me", "completion": "First Aid: Rinse the cut with clean water, apply antiseptic cream, and cover lightly."}
+{"prompt": "Symptom: My kid is facing my child\u2019s kid has a tummy child\u2019s ache", "completion": "First Aid: Encourage rest, give light meals, and plenty of fluids."}
+{"prompt": "Symptom: My child is experiencing Having issues with i have vomiting and stomach pain", "completion": "First Aid: Sip water slowly, rest, and eat light food."}
+{"prompt": "Symptom: i cut my child\u2019s finger problem", "completion": "First Aid: Rinse the cut with clean water, apply antiseptic cream, and cover lightly."}
+{"prompt": "Symptom: i have a headache problem", "completion": "First Aid: Rest in a quiet place, drink water, and avoid bright light."}
+{"prompt": "Symptom: I am experiencing i have a headache", "completion": "First Aid: Lie down in a calm room, keep yourself hydrated, and relax."}
+{"prompt": "Symptom: my child\u2019s kid has a tummy child\u2019s ache is bothering me", "completion": "First Aid: Rest and give small sips of water; avoid spicy or heavy food."}
+{"prompt": "Symptom: My child is experiencing Having issues with i feel dizzy", "completion": "First Aid: Sit down immediately, relax, and drink fluids."}
+{"prompt": "Symptom: Lately I feel i burnt my child\u2019s hand", "completion": "First Aid: Run cool water over the burn, do not apply ointments, and seek emergency help."}
+{"prompt": "Symptom: I suffer from i have vomiting and stomach pain", "completion": "First Aid: Sip water slowly, rest, and eat light food."}
+{"prompt": "Symptom: My kid is facing my child has a nosebleed", "completion": "First Aid: Sit upright, lean forward, and pinch the nose for 10 minutes."}
+{"prompt": "Symptom: Lately I feel i burnt my hand", "completion": "First Aid: Run cool water over the burn, do not apply ointments, and seek emergency help."}
+{"prompt": "Symptom: I got i cut my finger", "completion": "First Aid: Wash gently with water, put some antiseptic, and use a clean bandage."}
+{"prompt": "Symptom: My child is experiencing i have a headache is bothering me", "completion": "First Aid: Rest in a quiet place, drink water, and avoid bright light."}
+{"prompt": "Symptom: I suffer from i burnt my child\u2019s hand", "completion": "First Aid: Cool the burn under running water, cover loosely with a clean cloth, and seek emergency medical help."}
+{"prompt": "Symptom: my child has a nosebleed problem", "completion": "First Aid: Apply gentle pressure to the nose while sitting and leaning forward."}
+{"prompt": "Symptom: I got my child is choking", "completion": "First Aid: If the child cannot breathe, perform the Heimlich maneuver and call emergency services."}
+{"prompt": "Symptom: My child is experiencing My kid is facing i feel dizzy", "completion": "First Aid: Sit down immediately, relax, and drink fluids."}
+{"prompt": "Symptom: Feeling my child\u2019s child has a nosebleed", "completion": "First Aid: Apply gentle pressure to the nose while sitting and leaning forward."}
+{"prompt": "Symptom: my child has a nosebleed problem", "completion": "First Aid: Sit upright, lean forward, and pinch the nose for 10 minutes."}
+{"prompt": "Symptom: My child has i burnt my hand", "completion": "First Aid: Cool the burn under running water, cover loosely with a clean cloth, and seek emergency medical help."}
+{"prompt": "Symptom: My child is experiencing my child\u2019s child has a nosebleed", "completion": "First Aid: Keep the child sitting upright, tilt head slightly forward, and pinch the nose."}
+{"prompt": "Symptom: My child is experiencing i can't breathe properly problem", "completion": "First Aid: Sit upright, try to stay calm, and seek emergency medical help immediately."}
+{"prompt": "Symptom: Feeling i burnt my child\u2019s hand", "completion": "First Aid: Place the burn under cool water for several minutes, cover with a clean cloth, and get medical help."}
+{"prompt": "Symptom: My child is experiencing My kid is facing i have vomiting and stomach pain", "completion": "First Aid: Sip water slowly, rest, and eat light food."}
+{"prompt": "Symptom: My child is experiencing my child\u2019s child is choking", "completion": "First Aid: If the child cannot breathe, perform the Heimlich maneuver and call emergency services."}
+{"prompt": "Symptom: My child is experiencing I suffer from i have vomiting and stomach pain", "completion": "First Aid: Sip water slowly, rest, and eat light food."}
+{"prompt": "Symptom: I got my child\u2019s child is choking", "completion": "First Aid: Encourage coughing, and if needed, perform abdominal thrusts (Heimlich maneuver)."}
+{"prompt": "Symptom: Having issues with i burnt my hand", "completion": "First Aid: Place the burn under cool water for several minutes, cover with a clean cloth, and get medical help."}
+{"prompt": "Symptom: Having issues with my child\u2019s child has a nosebleed", "completion": "First Aid: Apply gentle pressure to the nose while sitting and leaning forward."}
+{"prompt": "Symptom: i have a headache is bothering me", "completion": "First Aid: Rest in a quiet place, drink water, and avoid bright light."}
+{"prompt": "Symptom: My child is experiencing Having issues with i can't breathe properly", "completion": "First Aid: Sit upright, try to stay calm, and seek emergency medical help immediately."}
+{"prompt": "Symptom: my child is choking problem", "completion": "First Aid: If the child cannot breathe, perform the Heimlich maneuver and call emergency services."}
+{"prompt": "Symptom: My child has i burnt my hand", "completion": "First Aid: Place the burn under cool water for several minutes, cover with a clean cloth, and get medical help."}
+{"prompt": "Symptom: Feeling i cut my child\u2019s finger", "completion": "First Aid: Rinse the cut with clean water, apply antiseptic cream, and cover lightly."}
+{"prompt": "Symptom: My child has i cut my finger", "completion": "First Aid: Wash gently with water, put some antiseptic, and use a clean bandage."}
+{"prompt": "Symptom: My child is experiencing i can't breathe properly problem", "completion": "First Aid: Call emergency services right away, sit upright, and remain calm."}
+{"prompt": "Symptom: My child is experiencing i have a headache problem", "completion": "First Aid: Lie down in a calm room, keep yourself hydrated, and relax."}
+{"prompt": "Symptom: My child is experiencing Lately I feel i can't breathe properly", "completion": "First Aid: Seek urgent medical help, keep calm, and sit in a comfortable upright position."}
+{"prompt": "Symptom: I got i cut my child\u2019s finger", "completion": "First Aid: Wash gently with water, put some antiseptic, and use a clean bandage."}
+{"prompt": "Symptom: my child is choking problem", "completion": "First Aid: Encourage coughing, and if needed, perform abdominal thrusts (Heimlich maneuver)."}
+{"prompt": "Symptom: I suffer from i feel dizzy", "completion": "First Aid: Rest in a safe position and sip water slowly."}
+{"prompt": "Symptom: My child is experiencing i have vomiting and stomach pain", "completion": "First Aid: Drink small amounts of clear fluids, rest, and avoid solid food for a while."}
+{"prompt": "Symptom: Feeling i burnt my child\u2019s hand", "completion": "First Aid: Run cool water over the burn, do not apply ointments, and seek emergency help."}
+{"prompt": "Symptom: I suffer from i have a headache", "completion": "First Aid: Lie down in a calm room, keep yourself hydrated, and relax."}
+{"prompt": "Symptom: Lately I feel i burnt my hand", "completion": "First Aid: Place the burn under cool water for several minutes, cover with a clean cloth, and get medical help."}
+{"prompt": "Symptom: My child is experiencing Having issues with i have vomiting and stomach pain", "completion": "First Aid: Take rest, sip oral rehydration solution, and avoid oily food."}
+{"prompt": "Symptom: I suffer from my kid has a tummy ache", "completion": "First Aid: Encourage rest, give light meals, and plenty of fluids."}
+{"prompt": "Symptom: My child is experiencing I suffer from i can't breathe properly", "completion": "First Aid: Seek urgent medical help, keep calm, and sit in a comfortable upright position."}
+{"prompt": "Symptom: I got i can't breathe properly", "completion": "First Aid: Seek urgent medical help, keep calm, and sit in a comfortable upright position."}
+{"prompt": "Symptom: Lately I feel i burnt my hand", "completion": "First Aid: Run cool water over the burn, do not apply ointments, and seek emergency help."}
+{"prompt": "Symptom: i burnt my hand is bothering me", "completion": "First Aid: Place the burn under cool water for several minutes, cover with a clean cloth, and get medical help."}
+{"prompt": "Symptom: My child is experiencing Feeling i feel dizzy", "completion": "First Aid: Sit down immediately, relax, and drink fluids."}
+{"prompt": "Symptom: My kid is facing i feel dizzy", "completion": "First Aid: Sit down immediately, relax, and drink fluids."}
+{"prompt": "Symptom: Lately I feel i can't breathe properly", "completion": "First Aid: Call emergency services right away, sit upright, and remain calm."}
+{"prompt": "Symptom: My kid is facing my child\u2019s kid has a tummy child\u2019s ache", "completion": "First Aid: Offer clear fluids, let the child rest, and avoid heavy meals."}
+{"prompt": "Symptom: My kid is facing i burnt my child\u2019s hand", "completion": "First Aid: Place the burn under cool water for several minutes, cover with a clean cloth, and get medical help."}
+{"prompt": "Symptom: My child is experiencing I got i have vomiting and stomach pain", "completion": "First Aid: Take rest, sip oral rehydration solution, and avoid oily food."}
+{"prompt": "Symptom: My child is experiencing i have vomiting and stomach pain problem", "completion": "First Aid: Take rest, sip oral rehydration solution, and avoid oily food."}
+{"prompt": "Symptom: I suffer from my child has a nosebleed", "completion": "First Aid: Sit upright, lean forward, and pinch the nose for 10 minutes."}
+{"prompt": "Symptom: My child is experiencing i can't breathe properly", "completion": "First Aid: Sit upright, try to stay calm, and seek emergency medical help immediately."}
+{"prompt": "Symptom: My child is experiencing I got i can't breathe properly", "completion": "First Aid: Seek urgent medical help, keep calm, and sit in a comfortable upright position."}
+{"prompt": "Symptom: I suffer from i burnt my child\u2019s hand", "completion": "First Aid: Place the burn under cool water for several minutes, cover with a clean cloth, and get medical help."}
+{"prompt": "Symptom: My child is experiencing Lately I feel i can't breathe properly", "completion": "First Aid: Call emergency services right away, sit upright, and remain calm."}
+{"prompt": "Symptom: My child is experiencing My kid is facing i have vomiting and stomach pain", "completion": "First Aid: Sip water slowly, rest, and eat light food."}
+{"prompt": "Symptom: My child is experiencing i have a headache problem", "completion": "First Aid: Lie down in a calm room, keep yourself hydrated, and relax."}
+{"prompt": "Symptom: Lately I feel i cut my child\u2019s finger", "completion": "First Aid: Wash gently with water, put some antiseptic, and use a clean bandage."}
+{"prompt": "Symptom: My kid is facing i burnt my hand", "completion": "First Aid: Run cool water over the burn, do not apply ointments, and seek emergency help."}
+{"prompt": "Symptom: Having issues with my child\u2019s kid has a tummy child\u2019s ache", "completion": "First Aid: Rest and give small sips of water; avoid spicy or heavy food."}
+{"prompt": "Symptom: i have a headache problem", "completion": "First Aid: Take rest, sip some water, and avoid noise and screens."}
+{"prompt": "Symptom: My child has i burnt my child\u2019s hand", "completion": "First Aid: Cool the burn under running water, cover loosely with a clean cloth, and seek emergency medical help."}
+{"prompt": "Symptom: My child is experiencing i cut my child\u2019s finger", "completion": "First Aid: Rinse the cut with clean water, apply antiseptic cream, and cover lightly."}
+{"prompt": "Symptom: I got i cut my child\u2019s finger", "completion": "First Aid: Wash gently with water, put some antiseptic, and use a clean bandage."}
+{"prompt": "Symptom: my child has a nosebleed is bothering me", "completion": "First Aid: Sit upright, lean forward, and pinch the nose for 10 minutes."}
+{"prompt": "Symptom: Feeling my child has a nosebleed", "completion": "First Aid: Sit upright, lean forward, and pinch the nose for 10 minutes."}
+{"prompt": "Symptom: my child\u2019s child is choking is bothering me", "completion": "First Aid: If the child cannot breathe, perform the Heimlich maneuver and call emergency services."}
+{"prompt": "Symptom: My child has i have a headache", "completion": "First Aid: Rest in a quiet place, drink water, and avoid bright light."}
+{"prompt": "Symptom: Feeling i feel dizzy", "completion": "First Aid: Rest in a safe position and sip water slowly."}
+{"prompt": "Symptom: Lately I feel my child has a nosebleed", "completion": "First Aid: Keep the child sitting upright, tilt head slightly forward, and pinch the nose."}
+{"prompt": "Symptom: I suffer from i cut my child\u2019s finger", "completion": "First Aid: Rinse the cut with clean water, apply antiseptic cream, and cover lightly."}
+{"prompt": "Symptom: Having issues with i burnt my child\u2019s hand", "completion": "First Aid: Cool the burn under running water, cover loosely with a clean cloth, and seek emergency medical help."}
+{"prompt": "Symptom: Feeling my child\u2019s child is choking", "completion": "First Aid: If the child cannot breathe, perform the Heimlich maneuver and call emergency services."}
+{"prompt": "Symptom: My child is experiencing I got i have a headache", "completion": "First Aid: Rest in a quiet place, drink water, and avoid bright light."}
+{"prompt": "Symptom: Lately I feel i have a headache", "completion": "First Aid: Lie down in a calm room, keep yourself hydrated, and relax."}
+{"prompt": "Symptom: Having issues with my child is choking", "completion": "First Aid: Encourage coughing first; if unsuccessful, try abdominal thrusts and seek help."}
+{"prompt": "Symptom: Having issues with my child has a nosebleed", "completion": "First Aid: Apply gentle pressure to the nose while sitting and leaning forward."}
+{"prompt": "Symptom: I suffer from my child is choking", "completion": "First Aid: Encourage coughing first; if unsuccessful, try abdominal thrusts and seek help."}
+{"prompt": "Symptom: I got my child\u2019s child is choking", "completion": "First Aid: If the child cannot breathe, perform the Heimlich maneuver and call emergency services."}
+{"prompt": "Symptom: i feel dizzy is bothering me", "completion": "First Aid: Sit down immediately, relax, and drink fluids."}
+{"prompt": "Symptom: My kid is facing my child\u2019s child is choking", "completion": "First Aid: If the child cannot breathe, perform the Heimlich maneuver and call emergency services."}
+{"prompt": "Symptom: Lately I feel my child\u2019s child is choking", "completion": "First Aid: Encourage coughing first; if unsuccessful, try abdominal thrusts and seek help."}
+{"prompt": "Symptom: My child is experiencing Feeling i feel dizzy", "completion": "First Aid: Rest in a safe position and sip water slowly."}
+{"prompt": "Symptom: Lately I feel i can't breathe properly", "completion": "First Aid: Call emergency services right away, sit upright, and remain calm."}
+{"prompt": "Symptom: Having issues with my child\u2019s child is choking", "completion": "First Aid: Encourage coughing, and if needed, perform abdominal thrusts (Heimlich maneuver)."}
+{"prompt": "Symptom: I got i have vomiting and stomach pain", "completion": "First Aid: Drink small amounts of clear fluids, rest, and avoid solid food for a while."}
+{"prompt": "Symptom: I got i cut my finger", "completion": "First Aid: Wash gently with water, put some antiseptic, and use a clean bandage."}
+{"prompt": "Symptom: Having issues with my child\u2019s child has a nosebleed", "completion": "First Aid: Apply gentle pressure to the nose while sitting and leaning forward."}
+{"prompt": "Symptom: Having issues with i burnt my hand", "completion": "First Aid: Place the burn under cool water for several minutes, cover with a clean cloth, and get medical help."}
+{"prompt": "Symptom: i feel dizzy is bothering me", "completion": "First Aid: Rest in a safe position and sip water slowly."}
+{"prompt": "Symptom: My child is experiencing i feel dizzy problem", "completion": "First Aid: Sit down immediately, relax, and drink fluids."}
+{"prompt": "Symptom: My child is experiencing i can't breathe properly", "completion": "First Aid: Call emergency services right away, sit upright, and remain calm."}
+{"prompt": "Symptom: My child is experiencing I suffer from i have a headache", "completion": "First Aid: Lie down in a calm room, keep yourself hydrated, and relax."}
+{"prompt": "Symptom: i cut my child\u2019s finger problem", "completion": "First Aid: Rinse the cut with clean water, apply antiseptic cream, and cover lightly."}
+{"prompt": "Symptom: My child is experiencing i have a headache is bothering me", "completion": "First Aid: Lie down in a calm room, keep yourself hydrated, and relax."}
+{"prompt": "Symptom: Feeling i feel dizzy", "completion": "First Aid: Rest in a safe position and sip water slowly."}
+{"prompt": "Symptom: My child is experiencing I got i have vomiting and stomach pain", "completion": "First Aid: Sip water slowly, rest, and eat light food."}
+{"prompt": "Symptom: I got my kid has a tummy ache", "completion": "First Aid: Encourage rest, give light meals, and plenty of fluids."}
+{"prompt": "Symptom: I got i burnt my hand", "completion": "First Aid: Place the burn under cool water for several minutes, cover with a clean cloth, and get medical help."}
+{"prompt": "Symptom: Having issues with my child is choking", "completion": "First Aid: If the child cannot breathe, perform the Heimlich maneuver and call emergency services."}
+{"prompt": "Symptom: My child is experiencing Having issues with i can't breathe properly", "completion": "First Aid: Seek urgent medical help, keep calm, and sit in a comfortable upright position."}
+{"prompt": "Symptom: My child is experiencing My kid is facing i feel dizzy", "completion": "First Aid: Sit down immediately, relax, and drink fluids."}
+{"prompt": "Symptom: Feeling my child\u2019s child has a nosebleed", "completion": "First Aid: Keep the child sitting upright, tilt head slightly forward, and pinch the nose."}
+{"prompt": "Symptom: My child is experiencing Having issues with i have vomiting and stomach pain", "completion": "First Aid: Drink small amounts of clear fluids, rest, and avoid solid food for a while."}
+{"prompt": "Symptom: My child is experiencing i have a headache", "completion": "First Aid: Rest in a quiet place, drink water, and avoid bright light."}
+{"prompt": "Symptom: I suffer from i have vomiting and stomach pain", "completion": "First Aid: Sip water slowly, rest, and eat light food."}
+{"prompt": "Symptom: Feeling i feel dizzy", "completion": "First Aid: Sit down immediately, relax, and drink fluids."}
+{"prompt": "Symptom: My kid is facing i can't breathe properly", "completion": "First Aid: Call emergency services right away, sit upright, and remain calm."}
+{"prompt": "Symptom: Lately I feel my child\u2019s kid has a tummy child\u2019s ache", "completion": "First Aid: Rest and give small sips of water; avoid spicy or heavy food."}
+{"prompt": "Symptom: Having issues with my child\u2019s child has a nosebleed", "completion": "First Aid: Keep the child sitting upright, tilt head slightly forward, and pinch the nose."}
+{"prompt": "Symptom: My child is experiencing Feeling i feel dizzy", "completion": "First Aid: Sit down immediately, relax, and drink fluids."}
+{"prompt": "Symptom: My child is experiencing I suffer from i have a headache", "completion": "First Aid: Rest in a quiet place, drink water, and avoid bright light."}
+{"prompt": "Symptom: I am experiencing i burnt my hand", "completion": "First Aid: Run cool water over the burn, do not apply ointments, and seek emergency help."}
+{"prompt": "Symptom: my child is choking problem", "completion": "First Aid: Encourage coughing first; if unsuccessful, try abdominal thrusts and seek help."}
+{"prompt": "Symptom: My child has i feel dizzy", "completion": "First Aid: Sit or lie down, drink water, and rest."}
+{"prompt": "Symptom: I suffer from i burnt my hand", "completion": "First Aid: Run cool water over the burn, do not apply ointments, and seek emergency help."}
+{"prompt": "Symptom: I suffer from i have a headache", "completion": "First Aid: Lie down in a calm room, keep yourself hydrated, and relax."}
+{"prompt": "Symptom: My child is experiencing Lately I feel i can't breathe properly", "completion": "First Aid: Sit upright, try to stay calm, and seek emergency medical help immediately."}
+{"prompt": "Symptom: I got i cut my child\u2019s finger", "completion": "First Aid: Clean the wound with water, apply antiseptic, and cover with a bandage."}
+{"prompt": "Symptom: My kid is facing my kid has a tummy ache", "completion": "First Aid: Encourage rest, give light meals, and plenty of fluids."}
+{"prompt": "Symptom: Having issues with my child\u2019s kid has a tummy child\u2019s ache", "completion": "First Aid: Encourage rest, give light meals, and plenty of fluids."}
+{"prompt": "Symptom: Feeling my kid has a tummy ache", "completion": "First Aid: Encourage rest, give light meals, and plenty of fluids."}
+{"prompt": "Symptom: Lately I feel my child\u2019s child has a nosebleed", "completion": "First Aid: Keep the child sitting upright, tilt head slightly forward, and pinch the nose."}
+{"prompt": "Symptom: i have vomiting and stomach pain is bothering me", "completion": "First Aid: Take rest, sip oral rehydration solution, and avoid oily food."}
+{"prompt": "Symptom: i can't breathe properly is bothering me", "completion": "First Aid: Sit upright, try to stay calm, and seek emergency medical help immediately."}
+{"prompt": "Symptom: Feeling i cut my finger", "completion": "First Aid: Clean the wound with water, apply antiseptic, and cover with a bandage."}
+{"prompt": "Symptom: I suffer from my kid has a tummy ache", "completion": "First Aid: Encourage rest, give light meals, and plenty of fluids."}
+{"prompt": "Symptom: i burnt my hand is bothering me", "completion": "First Aid: Place the burn under cool water for several minutes, cover with a clean cloth, and get medical help."}
+{"prompt": "Symptom: Feeling i burnt my hand", "completion": "First Aid: Run cool water over the burn, do not apply ointments, and seek emergency help."}
+{"prompt": "Symptom: I am experiencing i have vomiting and stomach pain", "completion": "First Aid: Take rest, sip oral rehydration solution, and avoid oily food."}
+{"prompt": "Symptom: i feel dizzy problem", "completion": "First Aid: Sit down immediately, relax, and drink fluids."}
+{"prompt": "Symptom: My child has my child has a nosebleed", "completion": "First Aid: Sit upright, lean forward, and pinch the nose for 10 minutes."}
+{"prompt": "Symptom: Feeling i cut my child\u2019s finger", "completion": "First Aid: Rinse the cut with clean water, apply antiseptic cream, and cover lightly."}
+{"prompt": "Symptom: Feeling my child\u2019s child has a nosebleed", "completion": "First Aid: Sit upright, lean forward, and pinch the nose for 10 minutes."}
+{"prompt": "Symptom: My child is experiencing Feeling i can't breathe properly", "completion": "First Aid: Sit upright, try to stay calm, and seek emergency medical help immediately."}
+{"prompt": "Symptom: Lately I feel my child\u2019s child is choking", "completion": "First Aid: If the child cannot breathe, perform the Heimlich maneuver and call emergency services."}
+{"prompt": "Symptom: i burnt my child\u2019s hand is bothering me", "completion": "First Aid: Run cool water over the burn, do not apply ointments, and seek emergency help."}
+{"prompt": "Symptom: Having issues with i have vomiting and stomach pain", "completion": "First Aid: Sip water slowly, rest, and eat light food."}
+{"prompt": "Symptom: My child is experiencing My kid is facing i feel dizzy", "completion": "First Aid: Sit or lie down, drink water, and rest."}
+{"prompt": "Symptom: my child is choking problem", "completion": "First Aid: Encourage coughing first; if unsuccessful, try abdominal thrusts and seek help."}
+{"prompt": "Symptom: Lately I feel my child\u2019s child is choking", "completion": "First Aid: If the child cannot breathe, perform the Heimlich maneuver and call emergency services."}
+{"prompt": "Symptom: My kid is facing my child\u2019s child is choking", "completion": "First Aid: Encourage coughing, and if needed, perform abdominal thrusts (Heimlich maneuver)."}
+{"prompt": "Symptom: My child is experiencing my child\u2019s child has a nosebleed", "completion": "First Aid: Sit upright, lean forward, and pinch the nose for 10 minutes."}
+{"prompt": "Symptom: My kid is facing i cut my child\u2019s finger", "completion": "First Aid: Rinse the cut with clean water, apply antiseptic cream, and cover lightly."}
+{"prompt": "Symptom: I am experiencing i feel dizzy", "completion": "First Aid: Rest in a safe position and sip water slowly."}
+{"prompt": "Symptom: Lately I feel my child\u2019s child is choking", "completion": "First Aid: Encourage coughing first; if unsuccessful, try abdominal thrusts and seek help."}
+{"prompt": "Symptom: My child has my child\u2019s child has a nosebleed", "completion": "First Aid: Sit upright, lean forward, and pinch the nose for 10 minutes."}
+{"prompt": "Symptom: My child is experiencing i feel dizzy problem", "completion": "First Aid: Sit or lie down, drink water, and rest."}
+{"prompt": "Symptom: My child is experiencing Having issues with i can't breathe properly", "completion": "First Aid: Sit upright, try to stay calm, and seek emergency medical help immediately."}
+{"prompt": "Symptom: Lately I feel my child\u2019s child has a nosebleed", "completion": "First Aid: Keep the child sitting upright, tilt head slightly forward, and pinch the nose."}
+{"prompt": "Symptom: My child is experiencing I suffer from i feel dizzy", "completion": "First Aid: Sit down immediately, relax, and drink fluids."}
+{"prompt": "Symptom: My child is experiencing My kid is facing i feel dizzy", "completion": "First Aid: Sit down immediately, relax, and drink fluids."}
+{"prompt": "Symptom: My child has my child\u2019s child is choking", "completion": "First Aid: Encourage coughing first; if unsuccessful, try abdominal thrusts and seek help."}
+{"prompt": "Symptom: I am experiencing i have a headache", "completion": "First Aid: Rest in a quiet place, drink water, and avoid bright light."}
+{"prompt": "Symptom: i cut my child\u2019s finger problem", "completion": "First Aid: Clean the wound with water, apply antiseptic, and cover with a bandage."}
+{"prompt": "Symptom: Lately I feel i burnt my child\u2019s hand", "completion": "First Aid: Cool the burn under running water, cover loosely with a clean cloth, and seek emergency medical help."}
+{"prompt": "Symptom: I suffer from i cut my finger", "completion": "First Aid: Rinse the cut with clean water, apply antiseptic cream, and cover lightly."}
+{"prompt": "Symptom: My child has i cut my child\u2019s finger", "completion": "First Aid: Rinse the cut with clean water, apply antiseptic cream, and cover lightly."}
+{"prompt": "Symptom: i have a headache problem", "completion": "First Aid: Rest in a quiet place, drink water, and avoid bright light."}
+{"prompt": "Symptom: i have a headache problem", "completion": "First Aid: Take rest, sip some water, and avoid noise and screens."}
+{"prompt": "Symptom: Feeling i burnt my hand", "completion": "First Aid: Cool the burn under running water, cover loosely with a clean cloth, and seek emergency medical help."}
+{"prompt": "Symptom: My child is experiencing My child has i can't breathe properly", "completion": "First Aid: Sit upright, try to stay calm, and seek emergency medical help immediately."}
+{"prompt": "Symptom: i cut my finger problem", "completion": "First Aid: Rinse the cut with clean water, apply antiseptic cream, and cover lightly."}
+{"prompt": "Symptom: my child\u2019s child has a nosebleed problem", "completion": "First Aid: Keep the child sitting upright, tilt head slightly forward, and pinch the nose."}
+{"prompt": "Symptom: I got my child\u2019s child has a nosebleed", "completion": "First Aid: Sit upright, lean forward, and pinch the nose for 10 minutes."}
+{"prompt": "Symptom: my child\u2019s child is choking problem", "completion": "First Aid: If the child cannot breathe, perform the Heimlich maneuver and call emergency services."}
+{"prompt": "Symptom: I got my kid has a tummy ache", "completion": "First Aid: Rest and give small sips of water; avoid spicy or heavy food."}
+{"prompt": "Symptom: My child is experiencing Having issues with i have a headache", "completion": "First Aid: Rest in a quiet place, drink water, and avoid bright light."}
+{"prompt": "Symptom: I got my child\u2019s child is choking", "completion": "First Aid: If the child cannot breathe, perform the Heimlich maneuver and call emergency services."}
+{"prompt": "Symptom: Having issues with i can't breathe properly", "completion": "First Aid: Call emergency services right away, sit upright, and remain calm."}
+{"prompt": "Symptom: My child is experiencing i have vomiting and stomach pain", "completion": "First Aid: Take rest, sip oral rehydration solution, and avoid oily food."}
+{"prompt": "Symptom: Having issues with i burnt my child\u2019s hand", "completion": "First Aid: Cool the burn under running water, cover loosely with a clean cloth, and seek emergency medical help."}
+{"prompt": "Symptom: I got i can't breathe properly", "completion": "First Aid: Sit upright, try to stay calm, and seek emergency medical help immediately."}
+{"prompt": "Symptom: My child is experiencing I got i can't breathe properly", "completion": "First Aid: Call emergency services right away, sit upright, and remain calm."}
+{"prompt": "Symptom: I suffer from my child is choking", "completion": "First Aid: Encourage coughing first; if unsuccessful, try abdominal thrusts and seek help."}
+{"prompt": "Symptom: My child has my child\u2019s kid has a tummy child\u2019s ache", "completion": "First Aid: Rest and give small sips of water; avoid spicy or heavy food."}
+{"prompt": "Symptom: My kid is facing i burnt my child\u2019s hand", "completion": "First Aid: Run cool water over the burn, do not apply ointments, and seek emergency help."}
+{"prompt": "Symptom: i cut my finger problem", "completion": "First Aid: Rinse the cut with clean water, apply antiseptic cream, and cover lightly."}
+{"prompt": "Symptom: i can't breathe properly problem", "completion": "First Aid: Call emergency services right away, sit upright, and remain calm."}
+{"prompt": "Symptom: my child\u2019s child has a nosebleed problem", "completion": "First Aid: Keep the child sitting upright, tilt head slightly forward, and pinch the nose."}
+{"prompt": "Symptom: My kid is facing my child\u2019s child has a nosebleed", "completion": "First Aid: Sit upright, lean forward, and pinch the nose for 10 minutes."}
+{"prompt": "Symptom: Feeling my child\u2019s child is choking", "completion": "First Aid: Encourage coughing, and if needed, perform abdominal thrusts (Heimlich maneuver)."}
+{"prompt": "Symptom: I am experiencing my child is choking", "completion": "First Aid: If the child cannot breathe, perform the Heimlich maneuver and call emergency services."}
+{"prompt": "Symptom: I got my kid has a tummy ache", "completion": "First Aid: Rest and give small sips of water; avoid spicy or heavy food."}
+{"prompt": "Symptom: My child has my kid has a tummy ache", "completion": "First Aid: Offer clear fluids, let the child rest, and avoid heavy meals."}
+{"prompt": "Symptom: I got i have vomiting and stomach pain", "completion": "First Aid: Take rest, sip oral rehydration solution, and avoid oily food."}
+{"prompt": "Symptom: My child is experiencing Lately I feel i feel dizzy", "completion": "First Aid: Sit down immediately, relax, and drink fluids."}
+{"prompt": "Symptom: my child\u2019s child is choking problem", "completion": "First Aid: Encourage coughing, and if needed, perform abdominal thrusts (Heimlich maneuver)."}
+{"prompt": "Symptom: i cut my finger problem", "completion": "First Aid: Clean the wound with water, apply antiseptic, and cover with a bandage."}
+{"prompt": "Symptom: Lately I feel i burnt my hand", "completion": "First Aid: Cool the burn under running water, cover loosely with a clean cloth, and seek emergency medical help."}
+{"prompt": "Symptom: My child is experiencing i feel dizzy is bothering me", "completion": "First Aid: Rest in a safe position and sip water slowly."}
+{"prompt": "Symptom: My child is experiencing i can't breathe properly", "completion": "First Aid: Sit upright, try to stay calm, and seek emergency medical help immediately."}
+{"prompt": "Symptom: I got i cut my child\u2019s finger", "completion": "First Aid: Clean the wound with water, apply antiseptic, and cover with a bandage."}
+{"prompt": "Symptom: Feeling my child\u2019s kid has a tummy child\u2019s ache", "completion": "First Aid: Offer clear fluids, let the child rest, and avoid heavy meals."}
+{"prompt": "Symptom: my child\u2019s kid has a tummy child\u2019s ache is bothering me", "completion": "First Aid: Rest and give small sips of water; avoid spicy or heavy food."}
+{"prompt": "Symptom: My child is experiencing Lately I feel i have a headache", "completion": "First Aid: Lie down in a calm room, keep yourself hydrated, and relax."}
+{"prompt": "Symptom: Having issues with my child\u2019s child has a nosebleed", "completion": "First Aid: Sit upright, lean forward, and pinch the nose for 10 minutes."}
+{"prompt": "Symptom: My child is experiencing i feel dizzy is bothering me", "completion": "First Aid: Rest in a safe position and sip water slowly."}
+{"prompt": "Symptom: My child is experiencing My kid is facing i have vomiting and stomach pain", "completion": "First Aid: Drink small amounts of clear fluids, rest, and avoid solid food for a while."}
+{"prompt": "Symptom: my child\u2019s child is choking is bothering me", "completion": "First Aid: Encourage coughing, and if needed, perform abdominal thrusts (Heimlich maneuver)."}
+{"prompt": "Symptom: My child is experiencing I suffer from i have a headache", "completion": "First Aid: Rest in a quiet place, drink water, and avoid bright light."}
+{"prompt": "Symptom: My child is experiencing I suffer from i have a headache", "completion": "First Aid: Take rest, sip some water, and avoid noise and screens."}
+{"prompt": "Symptom: I suffer from my child\u2019s child is choking", "completion": "First Aid: If the child cannot breathe, perform the Heimlich maneuver and call emergency services."}
+{"prompt": "Symptom: My kid is facing my child\u2019s kid has a tummy child\u2019s ache", "completion": "First Aid: Rest and give small sips of water; avoid spicy or heavy food."}
+{"prompt": "Symptom: Lately I feel i have vomiting and stomach pain", "completion": "First Aid: Sip water slowly, rest, and eat light food."}
+{"prompt": "Symptom: I got i burnt my hand", "completion": "First Aid: Cool the burn under running water, cover loosely with a clean cloth, and seek emergency medical help."}
+{"prompt": "Symptom: My child is experiencing My kid is facing i have vomiting and stomach pain", "completion": "First Aid: Take rest, sip oral rehydration solution, and avoid oily food."}
+{"prompt": "Symptom: I suffer from i have a headache", "completion": "First Aid: Rest in a quiet place, drink water, and avoid bright light."}
+{"prompt": "Symptom: My child is experiencing my child\u2019s child is choking", "completion": "First Aid: Encourage coughing, and if needed, perform abdominal thrusts (Heimlich maneuver)."}
+{"prompt": "Symptom: I suffer from my child has a nosebleed", "completion": "First Aid: Keep the child sitting upright, tilt head slightly forward, and pinch the nose."}
+{"prompt": "Symptom: Lately I feel my child\u2019s child has a nosebleed", "completion": "First Aid: Keep the child sitting upright, tilt head slightly forward, and pinch the nose."}
+{"prompt": "Symptom: Feeling my kid has a tummy ache", "completion": "First Aid: Encourage rest, give light meals, and plenty of fluids."}
+{"prompt": "Symptom: My child is experiencing i have a headache problem", "completion": "First Aid: Rest in a quiet place, drink water, and avoid bright light."}
+{"prompt": "Symptom: My child is experiencing I got i can't breathe properly", "completion": "First Aid: Seek urgent medical help, keep calm, and sit in a comfortable upright position."}
+{"prompt": "Symptom: My child is experiencing I got i have vomiting and stomach pain", "completion": "First Aid: Take rest, sip oral rehydration solution, and avoid oily food."}
+{"prompt": "Symptom: Lately I feel i burnt my child\u2019s hand", "completion": "First Aid: Cool the burn under running water, cover loosely with a clean cloth, and seek emergency medical help."}
+{"prompt": "Symptom: my child\u2019s kid has a tummy child\u2019s ache is bothering me", "completion": "First Aid: Encourage rest, give light meals, and plenty of fluids."}
+{"prompt": "Symptom: My child is experiencing Having issues with i can't breathe properly", "completion": "First Aid: Call emergency services right away, sit upright, and remain calm."}
+{"prompt": "Symptom: Lately I feel i can't breathe properly", "completion": "First Aid: Seek urgent medical help, keep calm, and sit in a comfortable upright position."}
+{"prompt": "Symptom: Having issues with my child\u2019s kid has a tummy child\u2019s ache", "completion": "First Aid: Encourage rest, give light meals, and plenty of fluids."}
+{"prompt": "Symptom: My kid is facing i burnt my hand", "completion": "First Aid: Run cool water over the burn, do not apply ointments, and seek emergency help."}
+{"prompt": "Symptom: I got i burnt my child\u2019s hand", "completion": "First Aid: Cool the burn under running water, cover loosely with a clean cloth, and seek emergency medical help."}
+{"prompt": "Symptom: My child is experiencing Feeling i can't breathe properly", "completion": "First Aid: Sit upright, try to stay calm, and seek emergency medical help immediately."}
+{"prompt": "Symptom: my child\u2019s child has a nosebleed problem", "completion": "First Aid: Apply gentle pressure to the nose while sitting and leaning forward."}
+{"prompt": "Symptom: My child has i have a headache", "completion": "First Aid: Lie down in a calm room, keep yourself hydrated, and relax."}
+{"prompt": "Symptom: Having issues with my child\u2019s child is choking", "completion": "First Aid: Encourage coughing first; if unsuccessful, try abdominal thrusts and seek help."}
+{"prompt": "Symptom: My child is experiencing I got i feel dizzy", "completion": "First Aid: Sit down immediately, relax, and drink fluids."}
+{"prompt": "Symptom: i burnt my hand is bothering me", "completion": "First Aid: Place the burn under cool water for several minutes, cover with a clean cloth, and get medical help."}
+{"prompt": "Symptom: Lately I feel i can't breathe properly", "completion": "First Aid: Call emergency services right away, sit upright, and remain calm."}
+{"prompt": "Symptom: I got my child\u2019s kid has a tummy child\u2019s ache", "completion": "First Aid: Rest and give small sips of water; avoid spicy or heavy food."}
+{"prompt": "Symptom: My child has i feel dizzy", "completion": "First Aid: Sit or lie down, drink water, and rest."}
+{"prompt": "Symptom: My child has i burnt my child\u2019s hand", "completion": "First Aid: Run cool water over the burn, do not apply ointments, and seek emergency help."}
+{"prompt": "Symptom: My child is experiencing i burnt my child\u2019s hand", "completion": "First Aid: Run cool water over the burn, do not apply ointments, and seek emergency help."}
+{"prompt": "Symptom: My child has i can't breathe properly", "completion": "First Aid: Seek urgent medical help, keep calm, and sit in a comfortable upright position."}
+{"prompt": "Symptom: My child has i can't breathe properly", "completion": "First Aid: Seek urgent medical help, keep calm, and sit in a comfortable upright position."}
+{"prompt": "Symptom: My child is experiencing i have a headache is bothering me", "completion": "First Aid: Rest in a quiet place, drink water, and avoid bright light."}
+{"prompt": "Symptom: Having issues with i cut my child\u2019s finger", "completion": "First Aid: Wash gently with water, put some antiseptic, and use a clean bandage."}
+{"prompt": "Symptom: My child is experiencing My child has i have a headache", "completion": "First Aid: Lie down in a calm room, keep yourself hydrated, and relax."}
+{"prompt": "Symptom: Feeling i burnt my child\u2019s hand", "completion": "First Aid: Cool the burn under running water, cover loosely with a clean cloth, and seek emergency medical help."}
+{"prompt": "Symptom: My child is experiencing Having issues with i have vomiting and stomach pain", "completion": "First Aid: Drink small amounts of clear fluids, rest, and avoid solid food for a while."}
+{"prompt": "Symptom: Feeling my child\u2019s child has a nosebleed", "completion": "First Aid: Keep the child sitting upright, tilt head slightly forward, and pinch the nose."}
+{"prompt": "Symptom: My child is experiencing I suffer from i have a headache", "completion": "First Aid: Lie down in a calm room, keep yourself hydrated, and relax."}
+{"prompt": "Symptom: i burnt my child\u2019s hand is bothering me", "completion": "First Aid: Place the burn under cool water for several minutes, cover with a clean cloth, and get medical help."}
+{"prompt": "Symptom: Lately I feel my kid has a tummy ache", "completion": "First Aid: Offer clear fluids, let the child rest, and avoid heavy meals."}
+{"prompt": "Symptom: My child is experiencing i can't breathe properly is bothering me", "completion": "First Aid: Call emergency services right away, sit upright, and remain calm."}
+{"prompt": "Symptom: Feeling i cut my child\u2019s finger", "completion": "First Aid: Wash gently with water, put some antiseptic, and use a clean bandage."}
+{"prompt": "Symptom: My child is experiencing Lately I feel i have vomiting and stomach pain", "completion": "First Aid: Drink small amounts of clear fluids, rest, and avoid solid food for a while."}
+{"prompt": "Symptom: Feeling i can't breathe properly", "completion": "First Aid: Sit upright, try to stay calm, and seek emergency medical help immediately."}
+{"prompt": "Symptom: My child is experiencing i can't breathe properly is bothering me", "completion": "First Aid: Seek urgent medical help, keep calm, and sit in a comfortable upright position."}
+{"prompt": "Symptom: Lately I feel my kid has a tummy ache", "completion": "First Aid: Offer clear fluids, let the child rest, and avoid heavy meals."}
+{"prompt": "Symptom: My kid is facing my kid has a tummy ache", "completion": "First Aid: Offer clear fluids, let the child rest, and avoid heavy meals."}
+{"prompt": "Symptom: My child is experiencing i have vomiting and stomach pain is bothering me", "completion": "First Aid: Take rest, sip oral rehydration solution, and avoid oily food."}
+{"prompt": "Symptom: i burnt my child\u2019s hand problem", "completion": "First Aid: Run cool water over the burn, do not apply ointments, and seek emergency help."}
+{"prompt": "Symptom: i have vomiting and stomach pain problem", "completion": "First Aid: Sip water slowly, rest, and eat light food."}
+{"prompt": "Symptom: Feeling my child has a nosebleed", "completion": "First Aid: Sit upright, lean forward, and pinch the nose for 10 minutes."}
+{"prompt": "Symptom: My kid is facing i cut my finger", "completion": "First Aid: Wash gently with water, put some antiseptic, and use a clean bandage."}
+{"prompt": "Symptom: My child is experiencing My kid is facing i feel dizzy", "completion": "First Aid: Sit down immediately, relax, and drink fluids."}
+{"prompt": "Symptom: Lately I feel my kid has a tummy ache", "completion": "First Aid: Encourage rest, give light meals, and plenty of fluids."}
+{"prompt": "Symptom: Feeling i can't breathe properly", "completion": "First Aid: Call emergency services right away, sit upright, and remain calm."}
+{"prompt": "Symptom: My child is experiencing I got i have a headache", "completion": "First Aid: Rest in a quiet place, drink water, and avoid bright light."}
+{"prompt": "Symptom: I got my child has a nosebleed", "completion": "First Aid: Apply gentle pressure to the nose while sitting and leaning forward."}
+{"prompt": "Symptom: Having issues with i can't breathe properly", "completion": "First Aid: Seek urgent medical help, keep calm, and sit in a comfortable upright position."}
+{"prompt": "Symptom: Having issues with i cut my finger", "completion": "First Aid: Wash gently with water, put some antiseptic, and use a clean bandage."}
+{"prompt": "Symptom: My child is experiencing My child has i have vomiting and stomach pain", "completion": "First Aid: Drink small amounts of clear fluids, rest, and avoid solid food for a while."}
+{"prompt": "Symptom: i have a headache is bothering me", "completion": "First Aid: Lie down in a calm room, keep yourself hydrated, and relax."}
+{"prompt": "Symptom: My child is experiencing i feel dizzy problem", "completion": "First Aid: Rest in a safe position and sip water slowly."}
+{"prompt": "Symptom: I suffer from i feel dizzy", "completion": "First Aid: Sit or lie down, drink water, and rest."}
+{"prompt": "Symptom: Feeling my child is choking", "completion": "First Aid: Encourage coughing, and if needed, perform abdominal thrusts (Heimlich maneuver)."}
+{"prompt": "Symptom: Lately I feel i have a headache", "completion": "First Aid: Take rest, sip some water, and avoid noise and screens."}
+{"prompt": "Symptom: i can't breathe properly problem", "completion": "First Aid: Call emergency services right away, sit upright, and remain calm."}
+{"prompt": "Symptom: My child is experiencing Feeling i feel dizzy", "completion": "First Aid: Sit down immediately, relax, and drink fluids."}
+{"prompt": "Symptom: I got i cut my finger", "completion": "First Aid: Clean the wound with water, apply antiseptic, and cover with a bandage."}
+{"prompt": "Symptom: I got my child\u2019s kid has a tummy child\u2019s ache", "completion": "First Aid: Rest and give small sips of water; avoid spicy or heavy food."}
+{"prompt": "Symptom: Feeling i burnt my child\u2019s hand", "completion": "First Aid: Cool the burn under running water, cover loosely with a clean cloth, and seek emergency medical help."}
+{"prompt": "Symptom: My kid is facing i cut my child\u2019s finger", "completion": "First Aid: Rinse the cut with clean water, apply antiseptic cream, and cover lightly."}
+{"prompt": "Symptom: I got my child\u2019s child is choking", "completion": "First Aid: Encourage coughing, and if needed, perform abdominal thrusts (Heimlich maneuver)."}
+{"prompt": "Symptom: i have vomiting and stomach pain problem", "completion": "First Aid: Sip water slowly, rest, and eat light food."}
+{"prompt": "Symptom: my child\u2019s child has a nosebleed is bothering me", "completion": "First Aid: Apply gentle pressure to the nose while sitting and leaning forward."}
+{"prompt": "Symptom: I am experiencing i have a headache", "completion": "First Aid: Rest in a quiet place, drink water, and avoid bright light."}
+{"prompt": "Symptom: Feeling i can't breathe properly", "completion": "First Aid: Seek urgent medical help, keep calm, and sit in a comfortable upright position."}
+{"prompt": "Symptom: Lately I feel my child has a nosebleed", "completion": "First Aid: Keep the child sitting upright, tilt head slightly forward, and pinch the nose."}
+{"prompt": "Symptom: my kid has a tummy ache is bothering me", "completion": "First Aid: Encourage rest, give light meals, and plenty of fluids."}
+{"prompt": "Symptom: my kid has a tummy ache problem", "completion": "First Aid: Encourage rest, give light meals, and plenty of fluids."}
+{"prompt": "Symptom: i can't breathe properly problem", "completion": "First Aid: Sit upright, try to stay calm, and seek emergency medical help immediately."}
+{"prompt": "Symptom: My child is experiencing My kid is facing i can't breathe properly", "completion": "First Aid: Call emergency services right away, sit upright, and remain calm."}
+{"prompt": "Symptom: My child has my child is choking", "completion": "First Aid: Encourage coughing first; if unsuccessful, try abdominal thrusts and seek help."}
+{"prompt": "Symptom: My child is experiencing I suffer from i have a headache", "completion": "First Aid: Rest in a quiet place, drink water, and avoid bright light."}
+{"prompt": "Symptom: I suffer from i can't breathe properly", "completion": "First Aid: Sit upright, try to stay calm, and seek emergency medical help immediately."}
+{"prompt": "Symptom: I got my child\u2019s child has a nosebleed", "completion": "First Aid: Apply gentle pressure to the nose while sitting and leaning forward."}
+{"prompt": "Symptom: Feeling i feel dizzy", "completion": "First Aid: Sit down immediately, relax, and drink fluids."}
+{"prompt": "Symptom: My child is experiencing I suffer from i have vomiting and stomach pain", "completion": "First Aid: Sip water slowly, rest, and eat light food."}
+{"prompt": "Symptom: My child is experiencing i feel dizzy", "completion": "First Aid: Rest in a safe position and sip water slowly."}
+{"prompt": "Symptom: My child is experiencing I got i have vomiting and stomach pain", "completion": "First Aid: Take rest, sip oral rehydration solution, and avoid oily food."}
+{"prompt": "Symptom: My kid is facing my kid has a tummy ache", "completion": "First Aid: Rest and give small sips of water; avoid spicy or heavy food."}
+{"prompt": "Symptom: My child is experiencing Having issues with i have a headache", "completion": "First Aid: Rest in a quiet place, drink water, and avoid bright light."}
+{"prompt": "Symptom: My kid is facing i can't breathe properly", "completion": "First Aid: Call emergency services right away, sit upright, and remain calm."}
+{"prompt": "Symptom: Feeling my child\u2019s child has a nosebleed", "completion": "First Aid: Sit upright, lean forward, and pinch the nose for 10 minutes."}
+{"prompt": "Symptom: My kid is facing my child has a nosebleed", "completion": "First Aid: Keep the child sitting upright, tilt head slightly forward, and pinch the nose."}
+{"prompt": "Symptom: My kid is facing i burnt my hand", "completion": "First Aid: Run cool water over the burn, do not apply ointments, and seek emergency help."}
+{"prompt": "Symptom: My child is experiencing i have a headache problem", "completion": "First Aid: Take rest, sip some water, and avoid noise and screens."}
+{"prompt": "Symptom: My child has my child\u2019s kid has a tummy child\u2019s ache", "completion": "First Aid: Rest and give small sips of water; avoid spicy or heavy food."}
+{"prompt": "Symptom: My child is experiencing i have a headache problem", "completion": "First Aid: Rest in a quiet place, drink water, and avoid bright light."}
+{"prompt": "Symptom: Having issues with my child has a nosebleed", "completion": "First Aid: Apply gentle pressure to the nose while sitting and leaning forward."}
+{"prompt": "Symptom: Having issues with i have a headache", "completion": "First Aid: Rest in a quiet place, drink water, and avoid bright light."}
+{"prompt": "Symptom: My child has i feel dizzy", "completion": "First Aid: Rest in a safe position and sip water slowly."}
+{"prompt": "Symptom: Feeling my child\u2019s kid has a tummy child\u2019s ache", "completion": "First Aid: Offer clear fluids, let the child rest, and avoid heavy meals."}
+{"prompt": "Symptom: Lately I feel i burnt my child\u2019s hand", "completion": "First Aid: Run cool water over the burn, do not apply ointments, and seek emergency help."}
+{"prompt": "Symptom: i have a headache problem", "completion": "First Aid: Rest in a quiet place, drink water, and avoid bright light."}
+{"prompt": "Symptom: Feeling i burnt my child\u2019s hand", "completion": "First Aid: Run cool water over the burn, do not apply ointments, and seek emergency help."}
+{"prompt": "Symptom: I got my kid has a tummy ache", "completion": "First Aid: Rest and give small sips of water; avoid spicy or heavy food."}
+{"prompt": "Symptom: My child is experiencing I got i have a headache", "completion": "First Aid: Lie down in a calm room, keep yourself hydrated, and relax."}
+{"prompt": "Symptom: My child is experiencing My child has i feel dizzy", "completion": "First Aid: Sit down immediately, relax, and drink fluids."}
+{"prompt": "Symptom: Having issues with my kid has a tummy ache", "completion": "First Aid: Encourage rest, give light meals, and plenty of fluids."}
+{"prompt": "Symptom: My kid is facing my child\u2019s kid has a tummy child\u2019s ache", "completion": "First Aid: Encourage rest, give light meals, and plenty of fluids."}
+{"prompt": "Symptom: Feeling my child has a nosebleed", "completion": "First Aid: Keep the child sitting upright, tilt head slightly forward, and pinch the nose."}
+{"prompt": "Symptom: My child has i cut my finger", "completion": "First Aid: Rinse the cut with clean water, apply antiseptic cream, and cover lightly."}
+{"prompt": "Symptom: I suffer from my child\u2019s kid has a tummy child\u2019s ache", "completion": "First Aid: Encourage rest, give light meals, and plenty of fluids."}
+{"prompt": "Symptom: My child is experiencing Feeling i can't breathe properly", "completion": "First Aid: Call emergency services right away, sit upright, and remain calm."}
+{"prompt": "Symptom: My kid is facing my child\u2019s child has a nosebleed", "completion": "First Aid: Apply gentle pressure to the nose while sitting and leaning forward."}
+{"prompt": "Symptom: I got i have a headache", "completion": "First Aid: Take rest, sip some water, and avoid noise and screens."}
+{"prompt": "Symptom: i can't breathe properly is bothering me", "completion": "First Aid: Call emergency services right away, sit upright, and remain calm."}
+{"prompt": "Symptom: Having issues with i have a headache", "completion": "First Aid: Rest in a quiet place, drink water, and avoid bright light."}
+{"prompt": "Symptom: i burnt my child\u2019s hand is bothering me", "completion": "First Aid: Cool the burn under running water, cover loosely with a clean cloth, and seek emergency medical help."}
+{"prompt": "Symptom: My child is experiencing Lately I feel i can't breathe properly", "completion": "First Aid: Call emergency services right away, sit upright, and remain calm."}
+{"prompt": "Symptom: I got i cut my finger", "completion": "First Aid: Wash gently with water, put some antiseptic, and use a clean bandage."}
+{"prompt": "Symptom: Having issues with i have vomiting and stomach pain", "completion": "First Aid: Take rest, sip oral rehydration solution, and avoid oily food."}
+{"prompt": "Symptom: Feeling i have a headache", "completion": "First Aid: Lie down in a calm room, keep yourself hydrated, and relax."}
+{"prompt": "Symptom: I am experiencing my kid has a tummy ache", "completion": "First Aid: Rest and give small sips of water; avoid spicy or heavy food."}
+{"prompt": "Symptom: i burnt my hand problem", "completion": "First Aid: Run cool water over the burn, do not apply ointments, and seek emergency help."}
+{"prompt": "Symptom: My child is experiencing My child has i feel dizzy", "completion": "First Aid: Sit or lie down, drink water, and rest."}
+{"prompt": "Symptom: My child is experiencing i have vomiting and stomach pain problem", "completion": "First Aid: Sip water slowly, rest, and eat light food."}
+{"prompt": "Symptom: i feel dizzy problem", "completion": "First Aid: Sit down immediately, relax, and drink fluids."}
+{"prompt": "Symptom: My child is experiencing I got i have a headache", "completion": "First Aid: Rest in a quiet place, drink water, and avoid bright light."}
+{"prompt": "Symptom: Having issues with my child is choking", "completion": "First Aid: Encourage coughing, and if needed, perform abdominal thrusts (Heimlich maneuver)."}
+{"prompt": "Symptom: My child has my kid has a tummy ache", "completion": "First Aid: Encourage rest, give light meals, and plenty of fluids."}
+{"prompt": "Symptom: My child has my kid has a tummy ache", "completion": "First Aid: Rest and give small sips of water; avoid spicy or heavy food."}
+{"prompt": "Symptom: i cut my child\u2019s finger is bothering me", "completion": "First Aid: Clean the wound with water, apply antiseptic, and cover with a bandage."}
+{"prompt": "Symptom: i burnt my hand is bothering me", "completion": "First Aid: Run cool water over the burn, do not apply ointments, and seek emergency help."}
+{"prompt": "Symptom: I am experiencing i have a headache", "completion": "First Aid: Rest in a quiet place, drink water, and avoid bright light."}
+{"prompt": "Symptom: I got my child is choking", "completion": "First Aid: If the child cannot breathe, perform the Heimlich maneuver and call emergency services."}
+{"prompt": "Symptom: I suffer from i burnt my child\u2019s hand", "completion": "First Aid: Place the burn under cool water for several minutes, cover with a clean cloth, and get medical help."}
+{"prompt": "Symptom: my child\u2019s kid has a tummy child\u2019s ache is bothering me", "completion": "First Aid: Encourage rest, give light meals, and plenty of fluids."}
+{"prompt": "Symptom: My child is experiencing My kid is facing i can't breathe properly", "completion": "First Aid: Call emergency services right away, sit upright, and remain calm."}
+{"prompt": "Symptom: My child is experiencing My child has i feel dizzy", "completion": "First Aid: Sit down immediately, relax, and drink fluids."}
+{"prompt": "Symptom: I got my child is choking", "completion": "First Aid: Encourage coughing, and if needed, perform abdominal thrusts (Heimlich maneuver)."}
+{"prompt": "Symptom: my child\u2019s child is choking problem", "completion": "First Aid: Encourage coughing, and if needed, perform abdominal thrusts (Heimlich maneuver)."}
+{"prompt": "Symptom: My child is experiencing My child has i can't breathe properly", "completion": "First Aid: Seek urgent medical help, keep calm, and sit in a comfortable upright position."}
+{"prompt": "Symptom: Lately I feel i burnt my child\u2019s hand", "completion": "First Aid: Cool the burn under running water, cover loosely with a clean cloth, and seek emergency medical help."}
+{"prompt": "Symptom: Lately I feel i burnt my hand", "completion": "First Aid: Run cool water over the burn, do not apply ointments, and seek emergency help."}
+{"prompt": "Symptom: My child is experiencing I suffer from i can't breathe properly", "completion": "First Aid: Sit upright, try to stay calm, and seek emergency medical help immediately."}
+{"prompt": "Symptom: My child is experiencing i can't breathe properly", "completion": "First Aid: Sit upright, try to stay calm, and seek emergency medical help immediately."}
+{"prompt": "Symptom: My child is experiencing Lately I feel i have a headache", "completion": "First Aid: Take rest, sip some water, and avoid noise and screens."}
+{"prompt": "Symptom: I suffer from i burnt my child\u2019s hand", "completion": "First Aid: Run cool water over the burn, do not apply ointments, and seek emergency help."}
+{"prompt": "Symptom: I suffer from my child is choking", "completion": "First Aid: Encourage coughing first; if unsuccessful, try abdominal thrusts and seek help."}
+{"prompt": "Symptom: My child is experiencing my child\u2019s child is choking", "completion": "First Aid: If the child cannot breathe, perform the Heimlich maneuver and call emergency services."}
+{"prompt": "Symptom: My kid is facing i burnt my child\u2019s hand", "completion": "First Aid: Cool the burn under running water, cover loosely with a clean cloth, and seek emergency medical help."}
+{"prompt": "Symptom: Lately I feel my child is choking", "completion": "First Aid: If the child cannot breathe, perform the Heimlich maneuver and call emergency services."}
+{"prompt": "Symptom: My child is experiencing i have a headache", "completion": "First Aid: Take rest, sip some water, and avoid noise and screens."}
+{"prompt": "Symptom: My child is experiencing i cut my child\u2019s finger", "completion": "First Aid: Clean the wound with water, apply antiseptic, and cover with a bandage."}
+{"prompt": "Symptom: My child has my kid has a tummy ache", "completion": "First Aid: Encourage rest, give light meals, and plenty of fluids."}
+{"prompt": "Symptom: My kid is facing my child has a nosebleed", "completion": "First Aid: Sit upright, lean forward, and pinch the nose for 10 minutes."}
+{"prompt": "Symptom: i burnt my child\u2019s hand is bothering me", "completion": "First Aid: Cool the burn under running water, cover loosely with a clean cloth, and seek emergency medical help."}
+{"prompt": "Symptom: My child has my child\u2019s child is choking", "completion": "First Aid: Encourage coughing first; if unsuccessful, try abdominal thrusts and seek help."}
+{"prompt": "Symptom: My child is experiencing i have vomiting and stomach pain problem", "completion": "First Aid: Drink small amounts of clear fluids, rest, and avoid solid food for a while."}
+{"prompt": "Symptom: i feel dizzy problem", "completion": "First Aid: Sit or lie down, drink water, and rest."}
+{"prompt": "Symptom: Feeling i cut my finger", "completion": "First Aid: Clean the wound with water, apply antiseptic, and cover with a bandage."}
+{"prompt": "Symptom: I suffer from i have a headache", "completion": "First Aid: Rest in a quiet place, drink water, and avoid bright light."}
+{"prompt": "Symptom: I got i burnt my hand", "completion": "First Aid: Place the burn under cool water for several minutes, cover with a clean cloth, and get medical help."}
+{"prompt": "Symptom: I am experiencing my kid has a tummy ache", "completion": "First Aid: Encourage rest, give light meals, and plenty of fluids."}
+{"prompt": "Symptom: I got i have a headache", "completion": "First Aid: Rest in a quiet place, drink water, and avoid bright light."}
+{"prompt": "Symptom: My kid is facing i burnt my child\u2019s hand", "completion": "First Aid: Run cool water over the burn, do not apply ointments, and seek emergency help."}
+{"prompt": "Symptom: My child has i can't breathe properly", "completion": "First Aid: Sit upright, try to stay calm, and seek emergency medical help immediately."}
+{"prompt": "Symptom: I am experiencing i cut my finger", "completion": "First Aid: Rinse the cut with clean water, apply antiseptic cream, and cover lightly."}
+{"prompt": "Symptom: My child is experiencing Lately I feel i can't breathe properly", "completion": "First Aid: Sit upright, try to stay calm, and seek emergency medical help immediately."}
+{"prompt": "Symptom: My kid is facing i cut my finger", "completion": "First Aid: Rinse the cut with clean water, apply antiseptic cream, and cover lightly."}
+{"prompt": "Symptom: I got my child is choking", "completion": "First Aid: Encourage coughing first; if unsuccessful, try abdominal thrusts and seek help."}
+{"prompt": "Symptom: Lately I feel my child is choking", "completion": "First Aid: Encourage coughing first; if unsuccessful, try abdominal thrusts and seek help."}
+{"prompt": "Symptom: Having issues with my child\u2019s child has a nosebleed", "completion": "First Aid: Apply gentle pressure to the nose while sitting and leaning forward."}
+{"prompt": "Symptom: i have a headache problem", "completion": "First Aid: Lie down in a calm room, keep yourself hydrated, and relax."}
+{"prompt": "Symptom: My child is experiencing My child has i feel dizzy", "completion": "First Aid: Rest in a safe position and sip water slowly."}
+{"prompt": "Symptom: i have vomiting and stomach pain is bothering me", "completion": "First Aid: Sip water slowly, rest, and eat light food."}
+{"prompt": "Symptom: Lately I feel my child\u2019s child is choking", "completion": "First Aid: Encourage coughing, and if needed, perform abdominal thrusts (Heimlich maneuver)."}
+{"prompt": "Symptom: my child\u2019s child has a nosebleed problem", "completion": "First Aid: Keep the child sitting upright, tilt head slightly forward, and pinch the nose."}
+{"prompt": "Symptom: i burnt my hand problem", "completion": "First Aid: Run cool water over the burn, do not apply ointments, and seek emergency help."}
+{"prompt": "Symptom: Feeling i feel dizzy", "completion": "First Aid: Rest in a safe position and sip water slowly."}
+{"prompt": "Symptom: Having issues with i cut my finger", "completion": "First Aid: Wash gently with water, put some antiseptic, and use a clean bandage."}
+{"prompt": "Symptom: Having issues with my kid has a tummy ache", "completion": "First Aid: Encourage rest, give light meals, and plenty of fluids."}
+{"prompt": "Symptom: My kid is facing i have vomiting and stomach pain", "completion": "First Aid: Sip water slowly, rest, and eat light food."}
+{"prompt": "Symptom: My child has my kid has a tummy ache", "completion": "First Aid: Encourage rest, give light meals, and plenty of fluids."}
+{"prompt": "Symptom: I got i feel dizzy", "completion": "First Aid: Sit or lie down, drink water, and rest."}
+{"prompt": "Symptom: My kid is facing i cut my finger", "completion": "First Aid: Wash gently with water, put some antiseptic, and use a clean bandage."}
+{"prompt": "Symptom: My child is experiencing my child\u2019s child is choking", "completion": "First Aid: Encourage coughing, and if needed, perform abdominal thrusts (Heimlich maneuver)."}
+{"prompt": "Symptom: Feeling i burnt my hand", "completion": "First Aid: Cool the burn under running water, cover loosely with a clean cloth, and seek emergency medical help."}
+{"prompt": "Symptom: My child is experiencing i have vomiting and stomach pain problem", "completion": "First Aid: Sip water slowly, rest, and eat light food."}
+{"prompt": "Symptom: I am experiencing i can't breathe properly", "completion": "First Aid: Call emergency services right away, sit upright, and remain calm."}
+{"prompt": "Symptom: Feeling my child has a nosebleed", "completion": "First Aid: Apply gentle pressure to the nose while sitting and leaning forward."}
+{"prompt": "Symptom: My kid is facing my child is choking", "completion": "First Aid: Encourage coughing, and if needed, perform abdominal thrusts (Heimlich maneuver)."}
+{"prompt": "Symptom: I suffer from my child\u2019s child has a nosebleed", "completion": "First Aid: Keep the child sitting upright, tilt head slightly forward, and pinch the nose."}
+{"prompt": "Symptom: Lately I feel i cut my finger", "completion": "First Aid: Clean the wound with water, apply antiseptic, and cover with a bandage."}
+{"prompt": "Symptom: my kid has a tummy ache is bothering me", "completion": "First Aid: Rest and give small sips of water; avoid spicy or heavy food."}
+{"prompt": "Symptom: I am having asthma attack", "completion": "First Aid: Try to grab your inhaler, if not available ask for help"}
+{"prompt": "Symptom: I am experiencing fatigue, restlessness", "completion": "First Aid: Sit down, take deep breathe, calm down, drink a cup of warm water"}

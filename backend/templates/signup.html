@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <title>Sign Up - AI First Aid Assistant</title>
+  <link rel="stylesheet" href="/static/style.css" />
+</head>
+
+<body class="login-page">
+
+  <div class="login-wrapper">
+    <div class="login-card">
+
+      <img src="/static/logo.jpeg" alt="Logo">
+
+      <h2>Create Your Account ✨</h2>
+      <p>Join the AI First Aid Assistant community</p>
+
+      <input type="email" id="email" placeholder="Email Address" required />
+      <input type="password" id="password" placeholder="Password" required />
+
+      <button onclick="signupUser()">Sign Up</button>
+
+      <span class="signup-link">
+        Already have an account?
+        <a href="/login">Login</a>
+      </span>
+
+      <a href="/" class="back-link">← Back to Home</a>
+
+    </div>
+  </div>
+
+  <script>
+    async function signupUser() {
+      const email = document.getElementById('email').value;
+      const password = document.getElementById('password').value;
+
+      const res = await fetch('/signup', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ email, password })
+      });
+
+      const data = await res.json();
+
+      if (data.success) {
+        window.location.href = "/chat";
+      } else {
+        alert(data.message || "Signup failed");
+      }
+    }
+  </script>
+
+</body>
+
+</html>

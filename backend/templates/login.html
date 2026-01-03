@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <title>Login - AI First Aid Assistant</title>
+  <link rel="stylesheet" href="/static/style.css" />
+</head>
+
+<!-- IMPORTANT: This class enables proper login-page CSS -->
+
+<body class="login-page">
+
+  <div class="login-wrapper">
+    <div class="login-card">
+
+      <img src="/static/logo.jpeg" alt="Logo">
+
+      <h2>Welcome Back 👋</h2>
+      <p>Log in to continue your AI First Aid journey</p>
+
+      <input type="email" id="email" placeholder="Email Address" required />
+      <input type="password" id="password" placeholder="Password" required />
+
+      <button onclick="loginUser()">Login</button>
+
+      <!-- Sign up text -->
+      <span class="signup-link">
+        Don't have an account?
+        <a href="/signup">Sign up</a>
+      </span>
+
+      <!-- FIXED SPACING FOR BACK LINK -->
+      <a href="/" class="back-link">← Back to Home</a>
+
+    </div>
+  </div>
+
+  <script>
+    async function loginUser() {
+      const email = document.getElementById('email').value;
+      const password = document.getElementById('password').value;
+
+      const res = await fetch('/login', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ email, password })
+      });
+
+      const data = await res.json();
+
+      if (data.success) {
+        window.location.href = "/chat";
+      } else {
+        alert(data.message || "Invalid login");
+      }
+    }
+  </script>
+
+</body>
+
+</html>

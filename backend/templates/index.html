@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <title>AI First Aid Assistant</title>
+  <link rel="stylesheet" href="/static/style.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+  <!-- 🔹 Top Bar -->
+  <header class="top-bar" id="">
+    <div class="brand">
+      <img src="{{ url_for('static', filename='logo.jpeg') }}" alt="logo" class="logo" />
+      <span class="brand-title">AI First Aid Assistant</span>
+    </div>
+    <div id="userStatus">
+      <!-- Login/Logout button injected by script.js -->
+    </div>
+  </header>
+
+  <!-- 🔹 Chat Container -->
+  <div class="chat-container">
+    <!-- Sidebar -->
+    <aside class="sidebar">
+      <h2>💙 My Chats</h2>
+      <button id="newChat">+ New Chat</button>
+      <ul id="chatList"></ul>
+    </aside>
+
+    <!-- Chat Window -->
+    <main class="chat-main">
+      <header class="chat-header">
+        <div class="title">
+          <h1>AI First Aid Assistant</h1>
+          <p>Providing calm, reliable first-aid guidance instantly</p>
+        </div>
+      </header>
+
+      <div id="messages" class="chat-messages"></div>
+
+      <footer class="chat-input">
+        <input type="text" id="userInput" placeholder="Type your message..." />
+        <button id="sendBtn" class="btn-primary">Send</button>
+        <button id="mic-btn" class="btn-icon" title="Speak">
+          <img src="{{ url_for('static', filename='mic.png') }}" alt="mic" />
+        </button>
+      </footer>
+    </main>
+  </div>
+
+  <script src="/static/script.js"></script>
+</body>
+
+</html>
