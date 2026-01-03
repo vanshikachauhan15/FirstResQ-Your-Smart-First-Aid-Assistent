@@ -96,5 +96,7 @@ This project is for educational and research purposes.
 ### Home Page
 <img width="1915" height="1018" alt="image" src="https://github.com/user-attachments/assets/4b854e75-2312-4baf-bf17-19e93f92e98d" />
 
+###Chat Interface
+<img width="1915" height="1018" alt="image" src="https://github.com/user-attachments/assets/fcc46789-a55b-44a4-bd04-a2074597f500" />
 
 
